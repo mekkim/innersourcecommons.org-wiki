@@ -9,15 +9,12 @@
   * Performance
   * Help w integrations
   * Help w workaround
-  * Documentation - less Tribal Knowledge
+  * Documentation - less Tribal Knowledge, higher quality
   * Code Quality
   * Community
   * Facilitation 
 
 * Group Communications
-
-* Communication:
-  * Documentation
 
 * Innovation
   * Open Innovation
