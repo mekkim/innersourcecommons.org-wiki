@@ -8,8 +8,8 @@ START WITH A TABLE OF CONTENTS
 1. Dependencies
 1. Style Guide
 1. Developer Environment
-1.1 Branching/ versioning
-1. Features
+  1. Branching/ versioning
+  1. Features
 1. Testing
 1. Roadmap
 1. Calendar
