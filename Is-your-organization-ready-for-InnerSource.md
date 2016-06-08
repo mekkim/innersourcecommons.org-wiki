@@ -1,3 +1,4 @@
+[Check Out Klass-Jan Stol's Article!](https://www.infoq.com/articles/inner-source-open-source-development-practices)
 
 * What is your culture?
   * How motivated?
