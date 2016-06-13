@@ -1,0 +1,11 @@
+## Are there fees for participating in InnerSourceCommons?
+There is no fee to be part of the Commons. We have talked about charging for tickets to Summit events, but the debate hasn't come to any conclusions yet. We have not charged for the first couple, though it seems folks are more inclined to charge in the future.
+
+We don't want to restrict anyone's access to an event, but some cost recovery would be useful (they aren't all that cheap to put on) and it would be very useful to get people's level of commitment earlier in the process so that folks that are volunteering to organize things can have a more accurate headcount than we've achieved so far. :smile:
+
+Event costs so far have been entirely covered by the hosts, and participant costs have been either covered by participants or their employers. I would love to have the ability to cover travel expenses for people that might otherwise struggle to participate.
+
+Another aspect that has been discussed is charging for tickets (to get a firm commitment from attendees) and donating that to the Apache Software Foundation (since we are pretty much copying the Apache Way) and / or other free software sustainability projects.
+
+## Which license governs contributions to InnerSourceCommons?
+The [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) governs by default. We do allow other copyright statements for specific items on the site. E.g., if a company wanted to post their material with a (c) or (tm) on their logos or other marks those pieces could be flagged as such without restricting all the material they are contributing (and attributing).
