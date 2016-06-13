@@ -10,3 +10,4 @@
 
 #### New Information
 * [InnerSource Thesaurus](InnerSource Thesaurus)
+* Meta information - [Frequently Asked Questions](FAQ)
