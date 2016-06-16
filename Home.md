@@ -11,3 +11,6 @@
 #### New Information
 * [InnerSource Thesaurus](InnerSource Thesaurus)
 * Meta information - [Frequently Asked Questions](FAQ)
+
+#### Sandbox
+* [Questions for a survey of channel participants](InnerSource survey questions) - 2016-06-16
