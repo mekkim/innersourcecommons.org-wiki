@@ -9,3 +9,9 @@ Another aspect that has been discussed is charging for tickets (to get a firm co
 
 ## Which license governs contributions to InnerSourceCommons?
 The [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) governs by default. We do allow other copyright statements for specific items on the site. E.g., if a company wanted to post their material with a (c) or (tm) on their logos or other marks those pieces could be flagged as such without restricting all the material they are contributing (and attributing).
+
+## Is there any copyright on the channel logo?  I really like it and would like to reuse it internally. If we all did that then it would help create an identity for Inner Source. Is it ok to reuse it?
+
+It’s free to use - in fact, you’re encouraged to use it!
+
+The logo is free to use so long as you use it for InnerSource.
