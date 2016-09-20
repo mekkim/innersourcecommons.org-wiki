@@ -1,3 +1,5 @@
+## DRAFT VERSION - Comments / questions in slack please
+
 # Wednesday September 28: Getting Started
 
 Looking at the challenges that lead us to InnerSource and initial steps to get started and encourage others to start.
