@@ -1,3 +1,5 @@
+2016-09-21 Update: [the 2016 survey is up and receiving answers](https://docs.google.com/forms/d/e/1FAIpQLSf1EBbeyYezb_j1U2x1K2YqrDTN7UPZYnYAkre2h5QceI0I4A/viewform?c=0&w=1) with many of the questions below plus others from kjstol.
+
 *Help us brainstorm questions for a survey of channel participants. The intention is to have an anonymous survey to generate data that can be useful for checking on the state of corporate InnerSource programs*
 
 * rough size of your company
