@@ -8,7 +8,7 @@ Looking at the challenges that lead us to InnerSource and initial steps to get s
     09:15 Keynote - Danese Cooper
     09:30 Intro to InnerSource - Cedric Williams and Silona Bonewald
     12:00 Lunch
-    13:00 Pattern Analysis - Tim Yao
+    13:00 InnerSource Patterns - Tim Yao and Padma Sudarsan
     15:00 Break
     15:30 Case studies - Multiple
     16:45 Close, data gathering, evening assignment
