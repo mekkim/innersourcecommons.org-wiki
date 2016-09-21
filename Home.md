@@ -7,8 +7,8 @@
 * Are [you](Are you ready for InnerSource?) ready to participate in InnerSource?
 
 #### Helpful Articles
-* [How to contribute to the website]
-* [How and why you should contribute to this wiki]
+* [How to contribute to the website](How to contribute to the website)
+* [How and why you should contribute to this wiki](How and why you should contribute to this wiki)
 
 #### References
 * [InnerSource Thesaurus](InnerSource Thesaurus)
