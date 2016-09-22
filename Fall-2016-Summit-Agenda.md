@@ -39,6 +39,6 @@ What do we need next for our organizations and our community?
     12:00 Lunch
     13:00 Pattern mining
     14:30 Data gathering, close conference
-    15:00 Deserts / travel snacks
+    15:00 Desserts / travel snacks
     15:15 Retrospective (any that want to participate)
     16:00 Really done
