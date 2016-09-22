@@ -17,6 +17,6 @@
 #### Sandbox / New Ideas
 * [InnerSource Patterns](InnerSource Patterns) - 2016-09-20
     - [InnerSource Patterns template](InnerSource Patterns template)
-    - [How to contribute InnerSource Patterns]
+    - [How to contribute InnerSource Patterns](How to contribute InnerSource Patterns)
 * [Questions for a survey of channel participants](InnerSource survey questions) - 2016-06-16
     - [First InnerSource Survey - 2016](https://docs.google.com/forms/d/e/1FAIpQLSf1EBbeyYezb_j1U2x1K2YqrDTN7UPZYnYAkre2h5QceI0I4A/viewform?c=0&w=1)
