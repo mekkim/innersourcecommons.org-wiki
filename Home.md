@@ -6,9 +6,10 @@
 * Is your [team](Is your team ready for InnerSource?) ready to start working with InnerSource?
 * Are [you](Are you ready for InnerSource?) ready to participate in InnerSource?
 
-#### Helpful Articles
+#### Helpful Articles/Slides
 * [How to contribute to the website](How to contribute to the website)
 * [How and why you should contribute to this wiki](How and why you should contribute to this wiki)
+* [Enterprise Lessons from Open Source](http://www.slideshare.net/jimjag/inner-source-enterprise-lessons-from-the-open-source-community)
 
 #### References
 * [InnerSource Thesaurus](InnerSource Thesaurus)
