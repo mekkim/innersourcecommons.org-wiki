@@ -19,6 +19,7 @@
   * Do you have Baseline Metrics?
   * What are your company’s goals?
   * How do you measure success?
+  * what *is* success?
   * Code Reviews?
   * Have you figured out the KPI’s that will matter for your culture?
     * Remember Gamification and testing teaches the test
