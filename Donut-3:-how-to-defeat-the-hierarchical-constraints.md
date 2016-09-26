@@ -10,7 +10,7 @@ Managers have deadlines and they don’t see how having their people will help t
 Even if there is nominal higher support for the goals, developers may still feel afraid to take that step.  
 
 **Resolution:**  ??  
- 
+  
 **Resulting Context:** Developers feel empowered to spend at least 20% of their time on inner sourcing  
 
 **Author:**  
