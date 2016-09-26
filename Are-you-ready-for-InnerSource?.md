@@ -1,3 +1,4 @@
+0. Read [Me](Is-your-organization-ready-for-InnerSource) First
 1. Is your organization ready?
   1. Is your organization open to sharing code and documentation internally?
   1. Is your InnerSource Agreement in place?
