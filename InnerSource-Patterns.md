@@ -9,6 +9,7 @@ The pattern form is useful for describing proven patterns but it could also be u
 ## Reviewed Patterns
 
 ## Proven Patterns (not yet reviewed)
+* [[Common Requirements]]
 
 ## Pattern ideas (not yet proven)
 
