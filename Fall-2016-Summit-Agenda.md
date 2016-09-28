@@ -24,7 +24,7 @@ How do we grow from experiments to large scale?
     11:00 Trusted Committer training - Cedric Williams
     12:00 Lunch
     13:00 Cleaning House - Silona Bonewald / Karl Fogel / ?
-    14:30 Metrics...
+    14:30 Experiences analyzing OSS ecosystems - Daniel Izquierdo
     15:00 Break
     15:30 InnerSource and Sustainability
     16:30 Data gathering, close, evening assignment
