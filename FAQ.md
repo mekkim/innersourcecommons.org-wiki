@@ -20,3 +20,13 @@ Note that trademark rights in the InnerSource name and branding are not licensed
 
 ## Why do you use InnerSource instead of Inner Source?
 In part this is done because the term "Inner Source" is used for other pursuits completely unrelated to the application of open source methods to corporate software development. Putting the words together makes it easier to find related content via a search engine.
+
+## How does the InnerSourceCommons website differ from the Wiki?
+
+The main website currently functions as a general overview and pointers to resources 
+developed to help explain "inner source" at PayPal; [pull requests to suggest changes](https://github.com/paypal/InnerSourceCommons/tree/master) 
+can be made on github.  
+
+The wiki (which this page is on!) is a collaborative work written by many practicioners 
+of inner source within various organizations, and welcomes your input by using the 
+GitHub wiki Edit button on the top left of this page (if you're logged in).  
