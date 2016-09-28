@@ -16,5 +16,7 @@ It’s free to use - in fact, you’re encouraged to use it!
 
 The logo is free to use so long as you use it for InnerSource.
 
+Note that trademark rights in the InnerSource name and branding are not licensed in CC-BY-SA. 
+
 ## Why do you use InnerSource instead of Inner Source?
 In part this is done because the term "Inner Source" is used for other pursuits completely unrelated to the application of open source methods to corporate software development. Putting the words together makes it easier to find related content via a search engine.
