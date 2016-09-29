@@ -25,7 +25,7 @@ Bad weather for liftoff
 
 ## Solution
 
-- 
+- tbd
 
 ## Resulting Context
 
@@ -34,7 +34,7 @@ Bad weather for liftoff
 ## Known instances (optional)
 
 ## Status
-* *Reviewed (provide date and venue) | Draft | Idea | Donut (everything but the Solution)*
+**Donut**
 
 ## Author
 * *Could be "As told to" if you are writing this for someone who wishes to remain anonymous*
