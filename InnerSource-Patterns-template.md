@@ -36,4 +36,4 @@ Siloes are broken and teams working together
 Draft
 
 ## Author  
-As told to 
+David Marcucci, Nicholas Stahl, Padma Sudarsan, Ryan Bellmore, Erin Bank
