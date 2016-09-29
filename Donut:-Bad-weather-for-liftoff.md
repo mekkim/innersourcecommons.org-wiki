@@ -25,7 +25,7 @@ Bad weather for liftoff
 
 ## Solution
 
-- tbd
+- tbd (it is a donut)
 
 ## Resulting Context
 
