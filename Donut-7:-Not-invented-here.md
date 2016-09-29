@@ -33,4 +33,4 @@ Perfectly good solutions are being rejected because of NIH.
 * *Reviewed (provide date and venue) | Draft | Idea | Donut (everything but the Solution)*
 
 ## Author
-* *Could be "As told to" if you are writing this for someone who wishes to remain anonymous*
+* Rob Mulcahy, Max Capraro, Jory Burson, John McDonough
