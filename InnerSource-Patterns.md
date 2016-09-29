@@ -10,6 +10,7 @@ The pattern form is useful for describing proven patterns but it could also be u
 
 ## Proven Patterns (not yet reviewed)
 * [[Common Requirements]]
+* [[Contained inner source enables collaborative product development]]
 
 ## Pattern ideas (not yet proven)
 
