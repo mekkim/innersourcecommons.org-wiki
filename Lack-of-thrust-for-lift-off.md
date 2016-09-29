@@ -1,5 +1,7 @@
 ## Title
 
+Lack of thrust for liftoff
+
 ## Context
 
 - Company A would like to start an InnerSource initiative in order to increase development speed and quality of software artefacts.
