@@ -1,6 +1,6 @@
 ## Title
 
-Lack of thrust for liftoff
+Bad weather for liftoff 
 
 ## Context
 
