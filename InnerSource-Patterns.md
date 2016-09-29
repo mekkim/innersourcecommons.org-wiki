@@ -26,6 +26,9 @@ The pattern form is useful for describing proven patterns but it could also be u
 
 * [[Donut 6: organizational mindset change]]  
 
-
+## InnerSource Pattern Mining
+* [[Potential Pattern Titles]] - take these and see if they are some kind of pattern ideas or proven DRAFT patterns that can be written from these
+* [[Discussion about middle management and product management]] - 2016-09-28
 
 ## InnerSource problems
+* [[List of unsolved innersource problems]]
