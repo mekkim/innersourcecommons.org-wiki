@@ -17,7 +17,7 @@ Fear of loss of identity
 ## Sketch (optional)
 
 ## Solution  
-Make the acquired teams feel secure in the new environment by 
+Make the acquired teams feel secure in the new environment by   
 1. Giving them a good on-broading training with inner sourcing as part of it. To bring their software onto existing platform  
 2. Make a few of them Trusted committer so they feel included.   
 3. Give them time to get comfortable with the new environment.   
