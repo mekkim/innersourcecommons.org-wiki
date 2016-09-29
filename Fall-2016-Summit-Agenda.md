@@ -35,7 +35,8 @@ What do we need next for our organizations and our community?
 
     09:00 Welcome and overview
     09:15 Keynote - ?
-    09:30 Checklists
+    09:30 Survey
+    10:30 Checklists
     12:00 Lunch
     13:00 Pattern mining
     14:30 Data gathering, close conference
