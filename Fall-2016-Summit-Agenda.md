@@ -19,15 +19,15 @@ How do we grow from experiments to large scale?
 
     09:00 Welcome and overview
     09:15 Keynote - Guy Martin
-    09:30 Product Owner training - Silona Bonewald
+    09:30 Cleaning House - Silona Bonewald
     10:30 Break
     11:00 Trusted Committer training - Cedric Williams
     12:00 Lunch
-    13:00 Cleaning House - Silona Bonewald / Karl Fogel / ?
+    13:00 Product Owner training - Silona Bonewald
     14:30 Experiences analyzing OSS ecosystems - Daniel Izquierdo
     15:00 Break
     15:30 InnerSource and Sustainability
-    16:30 Data gathering, close, evening assignment
+    16:00 Data gathering, close, evening assignment
 
 # Friday September 30: Looking Forward
 
