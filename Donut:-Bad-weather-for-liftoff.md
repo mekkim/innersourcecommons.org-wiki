@@ -37,4 +37,4 @@ Bad weather for liftoff
 **Donut**
 
 ## Author
-* *Could be "As told to" if you are writing this for someone who wishes to remain anonymous*
+* Georg Grütter, Wyane DuPont, Michael Dorner
