@@ -2,10 +2,11 @@
 
 ## Context
 
-* Change developer mindset, it's difficult to push developers to do things.
-* Developers are resisting the change, they are in their comfort zone and it's hard to go out.
-* Developer organizations maturity is high, so people are used to being in some hierarchy/rules
-* Developers are formed in agile, the shift from agile is difficult
+* Top-down inner source support
+* 3k population of developers
+* Middle Management  is not supporting inner source
+* There's already a succesfull group in the early stages
+* Code visibility is product dependent
 
 ## Problem  
 
