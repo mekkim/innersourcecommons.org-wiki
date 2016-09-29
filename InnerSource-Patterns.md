@@ -27,6 +27,8 @@ The pattern form is useful for describing proven patterns but it could also be u
 
 * [[Donut 6: organizational mindset change]]  
 
+* [[Review Committee Cheese Interface]]
+
 ## InnerSource Pattern Mining
 * [[Potential Pattern Titles]] - take these and see if they are some kind of pattern ideas or proven DRAFT patterns that can be written from these
 * [[Things that worked]] - things you've tried in inner sourcing that worked
