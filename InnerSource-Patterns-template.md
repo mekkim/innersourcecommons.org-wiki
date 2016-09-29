@@ -1,4 +1,4 @@
-## Title  Neutral Governance Committee
+## Title  Overcome aquisition based Siloes
 
 ## Context
 History of Acquisition resulting in multiple cultural perspectives and different processes.
