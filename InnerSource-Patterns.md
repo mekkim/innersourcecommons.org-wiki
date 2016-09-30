@@ -29,6 +29,8 @@ The pattern form is useful for describing proven patterns but it could also be u
 
 * [[Donut 6: organizational mindset change]]  
 
+* [[Donut Share Your Code, Get More Done]]
+
 * [Review Committee Cheese Interface](https://github.com/paypal/InnerSourceCommons/wiki/Review-Committee--aka--Cheese-Interface)
 
 ## InnerSource Pattern Mining
