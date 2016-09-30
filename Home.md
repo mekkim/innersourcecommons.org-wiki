@@ -16,6 +16,7 @@
 * Meta information - [Frequently Asked Questions](FAQ)
 
 #### Sandbox / New Ideas
+* [[InnerSource Fall Summit - Lessons Learned]] - 2016-09-30
 * [InnerSource Patterns](InnerSource Patterns) - 2016-09-20
     - [InnerSource Patterns template](InnerSource Patterns template)
     - [How to contribute InnerSource Patterns](How to contribute InnerSource Patterns)
