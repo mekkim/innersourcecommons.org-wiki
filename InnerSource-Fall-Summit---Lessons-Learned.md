@@ -8,6 +8,8 @@
 
 * Need to spread the word on Inner Source Survey - only 11 responses! @danese mentioned that the forthcoming Github Survey on Open Source communities might be worth looking into/collaborating with.
 
+* Inner Source can and should be a source of competitive advantage in talent recruitment (pointed out by Github folks)
+
 ## Ideas inspired by the Fall Summit
 
 * Pattern-development library on innersourcecommons.org?
