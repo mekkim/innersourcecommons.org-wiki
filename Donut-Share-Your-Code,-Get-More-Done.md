@@ -17,6 +17,9 @@ Developers are being asked to do more work than they can accomplish. They are lo
 
 ## Solution
 
+* "Quality, not Quantity" - re-allocate the efforts on the team from say, 6 developers 2 reviewers to 4 devs 4 reviewers (example). Individual code quantity/contribution will likely decrease but progress toward goals and quality will improve.
+* Create alignment of incentives to convince developers that time spent mentoring and reviewing is equally, if not more so, valuable to time spent coding. (this may its own pattern?)
+
 ## Resulting Context
 Development previously done in a silo is on the innersource system and people from outside the traditional silo are contributing successfully. More development is getting done per period (sprint).
 
