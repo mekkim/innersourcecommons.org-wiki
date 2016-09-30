@@ -18,3 +18,4 @@
 
 * Jim Jagielski / Capital One / jim.jagielski@capitalone.com | jimjag@gmail.com / @jimjag
 * Guy Martin / Autodesk / guy.martin@autodesk.com | guy@guywmartin.com / @guyma
+* Klaas-Jan Stol / Lero | University of Limerick / kjstol@gmail.com | klaas-jan.stol@lero.ie / @kjstol
