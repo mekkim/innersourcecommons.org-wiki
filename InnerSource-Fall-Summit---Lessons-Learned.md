@@ -6,6 +6,8 @@
 
 * Pattern development is a good way of developing solution templates for use in various companies - should give a consistent approach to most common Inner Source issues. 
 
+* Need to spread the word on Inner Source Survey - only 11 responses! @danese mentioned that the forthcoming Github Survey on Open Source communities might be worth looking into/collaborating with.
+
 ## Ideas inspired by the Fall Summit
 
 * Pattern-development library on innersourcecommons.org?
