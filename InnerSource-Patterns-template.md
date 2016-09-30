@@ -1,6 +1,10 @@
 ## Title  
 
-## Context
+
+## Context  
+
+***Where does the problem exist? what are the pre-conditions?
+
 
 ## Problem   
 
