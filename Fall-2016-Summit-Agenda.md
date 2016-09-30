@@ -43,3 +43,7 @@ What do we need next for our organizations and our community?
     15:00 Desserts / travel snacks
     15:15 Retrospective (any that want to participate)
     16:00 Really done
+
+# Attendees
+
+* Jim Jagielski / Capital One / jim.jagielski@capitalone.com | jimjag@gmail.com / @jimjag
