@@ -34,6 +34,7 @@ Some of these may be patterns; others may be pattern ideas. Take these and see i
 * Trusted Committers
 * Dedicated facilitation
 * Share your work to get more done
+  * [[Donut Share Your Code, Get More Done]]
 * Free electrons (create a space for people to work outside of their organizations (outside of the other forces))
 * Mentorship raises all ships
 * Mimicking enlightened self interest (Eric Raymond quote: nobody does everything for free; they’re getting something from it, including interesting work when their day job is boring)
