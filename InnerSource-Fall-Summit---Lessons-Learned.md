@@ -11,3 +11,7 @@
 * Pattern-development library on innersourcecommons.org?
 
 ## Next steps
+
+# Attendees
+
+* Jim Jagielski / Capital One / jim.jagielski@capitalone.com | jimjag@gmail.com / @jimjag
