@@ -35,7 +35,7 @@ The pattern form is useful for describing proven patterns but it could also be u
 * [[Potential Pattern Titles]] - take these and see if they are some kind of pattern ideas or proven DRAFT patterns that can be written from these
 * [[Things that worked]] - things you've tried in inner sourcing that worked
 * [[Discussion about middle management and product management]] - 2016-09-28  
-* [[Overcome Acquisition bases Siloes]]
+* [[Overcome Acquisition based Siloes]]
 
 ## InnerSource problems
 * [[List of unsolved innersource problems]]
