@@ -47,3 +47,4 @@ What do we need next for our organizations and our community?
 # Attendees
 
 * Jim Jagielski / Capital One / jim.jagielski@capitalone.com | jimjag@gmail.com / @jimjag
+* Guy Martin / Autodesk / guy.martin@autodesk.com | guy@guywmartin.com / @guyma
