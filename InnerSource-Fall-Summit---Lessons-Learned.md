@@ -2,6 +2,12 @@
 
 ## Lessons Learned
 
+* Use Open Source principles to increase the level of psychological safety, a key building block to pull request/inner source culture.
+
+* Pattern development is a good way of developing solution templates for use in various companies - should give a consistent approach to most common Inner Source issues. 
+
 ## Ideas inspired by the Fall Summit
+
+* Pattern-development library on innersourcecommons.org?
 
 ## Next steps
