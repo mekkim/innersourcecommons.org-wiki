@@ -23,9 +23,9 @@ Context: Customer deadlines (and committed feature content) do not change. Inner
 **Resulting Context:** Time is allotted in the schedule to allow for inner sourcing.  
 
 **Authors:**  
-Tim Yao
-Nick Stahl
-Guy Martin
-Michael Dorner
+- Tim Yao
+- Nick Stahl
+- Guy Martin
+- Michael Dorner
 
-**Status:** Donut
+**Status:** Draft Pattern
