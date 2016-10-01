@@ -22,3 +22,4 @@
 * Guy Martin / Autodesk / guy.martin@autodesk.com | guy@guywmartin.com / @guyma
 * Klaas-Jan Stol / Lero | University of Limerick / kjstol@gmail.com | klaas-jan.stol@lero.ie / @kjstol
 * Georg Grütter / Robert Bosch / gruetter@gmail.com | georg.gruetter@de.bosch.com / @georg.gruetter
+* Nick Stahl / GitHub / nickismyname@github.com | iamnickstahl@gmail.com | @nickismyname
