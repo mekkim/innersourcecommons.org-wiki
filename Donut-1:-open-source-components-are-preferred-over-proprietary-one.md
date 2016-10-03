@@ -14,7 +14,7 @@ All things equal, they gravitate towards open source.
 
 **Resulting Context:** Developers do select the best component regardless of whether it is open source or internal.  
 
-**Author:** ??  
+**Author:** As told to Padma Sudarsan, 2016-09-30
 
 **Status:** Draft  
 
