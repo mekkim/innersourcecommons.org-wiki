@@ -4,6 +4,8 @@
 
 * Use Open Source principles to increase the level of psychological safety (PS), a key building block to pull request/inner source culture. Release early, release often; allow the community to learn from/build on mistakes. There are four quadrants: apathy zone = low PS, low accountability; comfort zone = high PS but low accountability (not making progress); anxiety zone = high accountability, low PS; and the ideal learning zone = high PS + high accountability.
 
+![psychological safety](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAkwAAAAJGE1NTVlYzNiLTkwZmYtNDhlYi05YmMyLTE1NjQ3ZmMzMjM1NQ.png)
+
 * Pattern development is a good way of developing solution templates for use in various companies - should give a consistent approach to most common Inner Source issues. Patterns will also help people think through and understand the elements of a solution that can and must be customized for application in a specific company/situation.
 
 * Need to spread the word on [Inner Source Survey](https://docs.google.com/forms/d/e/1FAIpQLSf1EBbeyYezb_j1U2x1K2YqrDTN7UPZYnYAkre2h5QceI0I4A/viewform?c=0&w=1) - only 11 responses! @danese mentioned that the forthcoming Github Survey on Open Source communities might be worth looking into/collaborating with.
