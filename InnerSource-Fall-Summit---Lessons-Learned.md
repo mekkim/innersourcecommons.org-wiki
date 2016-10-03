@@ -1,4 +1,4 @@
-*This page is to crowd source the lessons learned. Feel free to add bullet points or to help organize what is here. Add sections as needed*
+*This page is to crowd source the lessons learned and take-aways from the Fall Summit 2016. Feel free to add bullet points or to help organize what is here. Add sections as needed*
 
 ## Lessons Learned
 
