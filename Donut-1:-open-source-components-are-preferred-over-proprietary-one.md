@@ -10,7 +10,7 @@ The channels to get any needed changes are more obvious with open source than wi
 Can easily grab the open source whereas internally developed component has less visibility and ease of availability. (This could be separate Pattern).
 All things equal, they gravitate towards open source.
 
-**Resolution:** Corporate requirement that inner source components should be evaluated before we go outside to search for open source component. If the open source component is now more mature, replace the inner source with the open source. Create some extrinsic rewards to trick them (initially). Make it easier to find the internal component (discover ability and visibility). Make the process simple and aligned with well know open source methods. 
+**Resolution:** Corporate requirement that inner source components should be evaluated before we go outside to search for open source component. If the open source component is now more mature, replace the inner source with the open source. Create some extrinsic rewards to trick them (initially). Make it easier to find the internal component (discoverability and visibility). Make the process simple and aligned with well know open source methods. 
 
 **Resulting Context:** Developers do select the best component regardless of whether it is open source or internal.  
 
