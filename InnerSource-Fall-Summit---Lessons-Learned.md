@@ -22,6 +22,10 @@
 
 * Biggest challenges for inner sourcing include: funding (department to department?), cultural change, hierarchical structure, security concerns, ongoing maintenance of contributions (TCs could help), legacy tooling and management support (oftentimes inner sourcing is grass roots but it needs VP buy-in to be sustainable)
 
+* Influence is much more important than ownership
+
+* Understanding principles behind the processes is vital
+
 ## Ideas inspired by the Fall Summit
 
 * Pattern-development library on innersourcecommons.org?
