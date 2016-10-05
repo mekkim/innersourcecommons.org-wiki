@@ -13,6 +13,8 @@ The pattern form is useful for describing proven patterns but it could also be u
 ## Proven Patterns (not yet reviewed)
 * [[Common Requirements]]
 * [[Contained inner source enables collaborative product development]]
+* [Review Committee Cheese Interface](https://github.com/paypal/InnerSourceCommons/wiki/Review-Committee--aka--Cheese-Interface)
+* [[Overcome Acquisition based Siloes]]
 
 ## Pattern ideas (not yet proven)
 
@@ -29,11 +31,8 @@ The pattern form is useful for describing proven patterns but it could also be u
 
 * [[Donut 6: organizational mindset change]]  
 
-* [[Donut Share Your Code, Get More Done]]
+* [[Donut 7: Share Your Code, Get More Done]]
 
-* [Review Committee Cheese Interface](https://github.com/paypal/InnerSourceCommons/wiki/Review-Committee--aka--Cheese-Interface)
-
-* [[Overcome Acquisition based Siloes]]
 
 ## InnerSource Pattern Mining
 * [[Potential Pattern Titles]] - take these and see if they are some kind of pattern ideas or proven DRAFT patterns that can be written from these
