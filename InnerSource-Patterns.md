@@ -11,15 +11,14 @@ The pattern form is useful for describing proven patterns but it could also be u
 
 ## Reviewed Patterns
 
-## Proven Patterns (not yet reviewed)
+## Proven Patterns Draft (not yet reviewed)
 * [[Common Requirements]]
 * [[Contained inner source enables collaborative product development]]
 * [Review Committee Cheese Interface](https://github.com/paypal/InnerSourceCommons/wiki/Review-Committee--aka--Cheese-Interface)
 * [[Overcome Acquisition based Siloes]]  
-
 * [[Open source components are preferred over proprietary one]]  
 
-## Pattern ideas (not yet proven)
+## Pattern brainstormed ideas (not yet proven)
 * [[Different repo for shared code than the product org uses in its build]]
 
 ## Pattern donuts (needing a solution)  
