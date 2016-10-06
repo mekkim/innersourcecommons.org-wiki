@@ -15,12 +15,13 @@ The pattern form is useful for describing proven patterns but it could also be u
 * [[Common Requirements]]
 * [[Contained inner source enables collaborative product development]]
 * [Review Committee Cheese Interface](https://github.com/paypal/InnerSourceCommons/wiki/Review-Committee--aka--Cheese-Interface)
-* [[Overcome Acquisition based Siloes]]
+* [[Overcome Acquisition based Siloes]]  
+
+* [[Open source components are preferred over proprietary one]]  
 
 ## Pattern ideas (not yet proven)
 
 ## Pattern donuts (needing a solution)  
-* [[Donut 1: open source components are preferred over proprietary one]]  
 
 * [[Donut 2: different repo for shared code than the product org uses in its build]]
 
