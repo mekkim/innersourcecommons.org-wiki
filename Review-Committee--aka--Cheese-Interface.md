@@ -8,20 +8,20 @@ Review Committee / Cheese Interface
 - Most managers in company A are not familiar with the Open Source working model.
 - Most managers in company A are accustomed to hierarchical, top-down control style management.
 
+## Problem
+
+- Managers either reject or micro manage the InnerSource initiative. As a result, the benefits of InnerSource can not be realized. InnerSource is discredited.
+
 ## Forces
 
 - The more perceived control a manager has over the work in the inner source initiative, the more likely it is that he will support the initiative without prior experience.
 - The more heavy handed and micro managerial InnerSource initiatives are managed, the less likely it is that the open source working model can be adopted to the required extent. As a result, the benefits of InnerSource will not be realized.
 
-## Problem
-
-- Managers either reject or micro manage the InnerSource initiative. As a result, the benefits of InnerSource can not be realized. InnerSource is discredited.
-
 ## Sketch (optional)
 
 ## Solution
 
-- Instantiate a review committee to convene regularly (e. g. twice a year). The review committee has the authority to decide which InnerSource project is going to get approval and funding, based on data presented by the respective project.
+- Establish a review committee to convene regularly (e. g. twice a year). The review committee has the authority to decide which InnerSource project is going to get approval and funding, based on data presented by the respective project.
 - Every InnerSource project is to be given the chance to react to feedback received on one session of the review committee until the next session in order to avoid shutting down the project prematurely. 
 - An InnerSource project can also present the motion to be shut down on its own initiative on a review committee. The review committee then has to decide whether or not the business units using the software need to be given time to put measures in place to ensure that development and/or maintenance of the codebase continues until an alternative solution to development by the InnerSource community is found (if business relevant or mission critical).
 
