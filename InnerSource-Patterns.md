@@ -20,7 +20,7 @@ The pattern form is useful for describing proven patterns but it could also be u
 * [[Open source components are preferred over proprietary one]]  
 
 ## Pattern ideas (not yet proven)
-* [[Donut 2: different repo for shared code than the product org uses in its build]]
+* [[Different repo for shared code than the product org uses in its build]]
 
 ## Pattern donuts (needing a solution)  
 
