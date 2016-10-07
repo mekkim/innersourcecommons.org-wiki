@@ -24,14 +24,11 @@ The pattern form is useful for describing proven patterns but it could also be u
 ## Pattern donuts (needing a solution)  
 
 * [[Donut 3: how to defeat the hierarchical constraints]]  
-
 * [[Donut 4: modular code (for reuse) requires extra resources]]  
-
 * [[Donut 5: project management time pressures]]
-
 * [[Donut 6: organizational mindset change]]  
-
 * [[Donut 7: Share Your Code, Get More Done]]
+* [[Donut 8: Not invented here]]
 
 
 ## InnerSource Pattern Mining
