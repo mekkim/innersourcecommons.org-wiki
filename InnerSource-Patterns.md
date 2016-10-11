@@ -18,10 +18,12 @@ The pattern form is useful for describing proven patterns but it could also be u
 * [[Overcome Acquisition based Siloes]]  
 * [[Open source components are preferred over proprietary one]]
 * [Reluctance to receive contributions](https://docs.google.com/document/d/13QDN-BpE_BixRFVGjao32n4Ctim0ROXAHbBWMBOijb4/edit)
+* [[Draft Pattern Overcoming Project Management Time Pressures]]
 
 ## Pattern brainstormed ideas (not yet proven)
 * [[Different repo for shared code than the product org uses in its build]]
 * [[Pattern: Share Your Code to Get More Done - Likely Contributors Variant]]
+* [[Pattern: change the developers mindset]]
 
 ## Pattern donuts (needing a solution)  
 
@@ -30,9 +32,11 @@ The pattern form is useful for describing proven patterns but it could also be u
 * [[Donut 5: project management time pressures]]
 * [[Donut 6: organizational mindset change]]  
 * [[Donut 8: Not invented here]]
+* [[Donut: Bad weather for liftoff]]
 
 
 ## InnerSource Pattern Mining
+* [doodle to prioritize the titles and problems](http://doodle.com/poll/mgtwvvpaphx4y3pf) - Poll will close end of day Oct 23, 2016
 * [[Potential Pattern Titles]] - take these and see if they are some kind of pattern ideas or proven DRAFT patterns that can be written from these
 * [[Things that worked]] - things you've tried in inner sourcing that worked
 * [[Discussion about middle management and product management]] - 2016-09-28  
