@@ -18,7 +18,7 @@ The pattern form is useful for describing proven patterns but it could also be u
 * [[Overcome Acquisition based Siloes]]  
 * [[Open source components are preferred over proprietary one]]
 * [Reluctance to receive contributions](https://docs.google.com/document/d/13QDN-BpE_BixRFVGjao32n4Ctim0ROXAHbBWMBOijb4/edit)
-* [[Draft Pattern Overcoming Project Management Time Pressures]]
+* [Draft Pattern Overcoming Project Management Time Pressures](https://github.com/paypal/InnerSourceCommons/wiki/Draft-Pattern---Overcoming-Project-Management-Time-Pressures)
 
 ## Pattern brainstormed ideas (not yet proven)
 * [[Different repo for shared code than the product org uses in its build]]
