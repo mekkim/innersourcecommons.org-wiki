@@ -42,5 +42,6 @@
 * Klaas-Jan Stol / Lero | University of Limerick / kjstol@gmail.com | klaas-jan.stol@lero.ie / @kjstol
 * Georg Grütter / Robert Bosch / gruetter@gmail.com | georg.gruetter@de.bosch.com / @georg.gruetter
 * Nick Stahl / GitHub / nickismyname@github.com | iamnickstahl@gmail.com / @nickismyname
+* Clay Nelson / GitHub / claynelson@github.com | clay@claynelson.org / @claynelson
 * Tim Yao / Nokia / tim.1.yao -at- nokia.com  
 * Padma Sudarsan / Nokia / padma.sudarsan -@- nokia.com
