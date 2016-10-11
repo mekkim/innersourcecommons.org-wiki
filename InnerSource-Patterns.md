@@ -21,6 +21,7 @@ The pattern form is useful for describing proven patterns but it could also be u
 
 ## Pattern brainstormed ideas (not yet proven)
 * [[Different repo for shared code than the product org uses in its build]]
+* [[Pattern: Share Your Code to Get More Done - Likely Contributors Variant]]
 
 ## Pattern donuts (needing a solution)  
 
@@ -28,7 +29,6 @@ The pattern form is useful for describing proven patterns but it could also be u
 * [[Donut 4: modular code (for reuse) requires extra resources]]  
 * [[Donut 5: project management time pressures]]
 * [[Donut 6: organizational mindset change]]  
-* [[Donut 7: Share Your Code, Get More Done]]
 * [[Donut 8: Not invented here]]
 
 
