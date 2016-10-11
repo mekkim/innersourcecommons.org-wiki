@@ -16,7 +16,8 @@ The pattern form is useful for describing proven patterns but it could also be u
 * [[Contained inner source enables collaborative product development]]
 * [Review Committee Cheese Interface](https://github.com/paypal/InnerSourceCommons/wiki/Review-Committee--aka--Cheese-Interface)
 * [[Overcome Acquisition based Siloes]]  
-* [[Open source components are preferred over proprietary one]]  
+* [[Open source components are preferred over proprietary one]]
+* [Reluctance to receive contributions](https://docs.google.com/document/d/13QDN-BpE_BixRFVGjao32n4Ctim0ROXAHbBWMBOijb4/edit)
 
 ## Pattern brainstormed ideas (not yet proven)
 * [[Different repo for shared code than the product org uses in its build]]
