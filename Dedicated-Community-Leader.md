@@ -31,4 +31,4 @@ _Draft Pattern_
 
 ## Author
 
-Georg Grütter (Robert Bosch GmbH)
+Georg Grütter (Robert Bosch GmbH), Diogo Fregonese (Robert Bosch GmbH)
