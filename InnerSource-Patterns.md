@@ -7,7 +7,19 @@ Patterns are a way of describing a repeatable, proven solution to a problem with
 ## How can you use Inner Source Patterns?
 Patterns must be used in a thoughtful manner. They cannot be blindly applied. In most cases, you will need to adapt the given solution to your own situation; but the information given in the pattern, defining the context (immovable constraints) and forces (constraints that can be changed and balanced against each other), should help you do this.
 
-The pattern form is useful for describing proven patterns but it could also be used for *brainstorming solutions* where patterns are not yet established, since the form gives a structured way for thinking about a problem. You could also create a *donut pattern* (filling in the problem, context, forces and resulting context fields but leaving the solution blank) as a way of asking the InnerSource Commons community for help (to find a proven solution or to brainstorm things to try). 
+The pattern form is useful for describing proven patterns but it could also be used for *brainstorming solutions* where patterns are not yet established, since the form gives a structured way for thinking about a problem. You could also create a *donut pattern* (filling in the problem, context, forces and resulting context fields but leaving the solution blank) as a way of asking the InnerSource Commons community for help (to find a proven solution or to brainstorm things to try).
+
+## Instructions!
+1. The [complete list of pattern](https://docs.google.com/spreadsheets/d/17KPZdCoquTnYSj03pX4v2vn8lrSYO_6HK20u1cwaLPg/edit#gid=0) (discussed so far); action Items for all who are interested in patterns:
+    a. Add any missing pattern or add new ones anytime
+    b. Add your name if you want to be on the author team (column). Mark you name in blue if you want to be the coordinator.
+    c. Add your name to the reviewer team if interested in the pattern
+2. Coordinator role (per pattern):
+Setup meetings with pattern Authors to work through the patterns. Note the team can use Googledocs or any other tool to work on the pattern. However Wiki is the final destination for the patterns. It is recommended that Wiki be kept as up-to-date as possible. Should keep the status and target updated for each pattern in the spreadsheet.
+3. Every 2 weeks (or even sooner if necessary) we will have a meeting with a larger team and review the patterns.
+4. Folks who want to join the pattern mining team but are new to this please let us know. We can bring you up to speed. 
+
+If you don't have access yet to the google drive shared folder, contact @thyao, @silona or @cedric on the Slack channel. They can add you to the google group. @cedric can ensure you have access to the #innersource-patterns slack channel.
 
 ## Reviewed Patterns
 
