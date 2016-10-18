@@ -1,6 +1,6 @@
 ## Welcome to the InnerSourceCommons wiki!
 * [Return to the InnerSource Commons front page](http://paypal.github.io/InnerSourceCommons/)
-* [[Links and online resources]]
+* [Links and online resources](https://github.com/paypal/InnerSourceCommons/wiki/Links-and-online-resources-for-the-InnerSource-Commons)
 
 ### Checklists
 * Is your [organization](Is your organization ready for InnerSource?) ready to adopt InnerSource?
