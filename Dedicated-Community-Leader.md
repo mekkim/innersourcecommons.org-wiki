@@ -23,7 +23,7 @@ Company A wants to initiate an InnerSource initiative in order to foster collabo
 
 ## Solution
 
-Select a community leader which is experienced in the Open Source working model or similar community based working models and with has a good network within the company. Empower the community leader to dedicate 100 % of his time to community work and marketing. Such a community leader will embody the companies commitment to InnerSource.
+Select a community leader which is experienced in the Open Source working model or similar community based working models, has the required soft-skills to act as a natural leader, inspire community members and has a good network within the company. Empower the community leader to dedicate 100 % of his time to community work and marketing. Such a community leader will embody the companies commitment to InnerSource.
 
 ## Status
 
