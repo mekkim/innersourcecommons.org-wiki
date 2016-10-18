@@ -1,5 +1,6 @@
 ## Welcome to the InnerSourceCommons wiki!
 * [Return to the InnerSource Commons front page](http://paypal.github.io/InnerSourceCommons/)
+* [[Links and online resources]]
 
 ### Checklists
 * Is your [organization](Is your organization ready for InnerSource?) ready to adopt InnerSource?
@@ -13,6 +14,7 @@
 
 ### Summits
 * [[InnerSource Fall Summit - Lessons Learned]] - 2016-09-30
+* [[InnerSource Commons Fall Summit 2017 Planning]] - started 2016-10-18
 
 ### InnerSource Patterns
 * [InnerSource Patterns](InnerSource Patterns) - 2016-09-20
