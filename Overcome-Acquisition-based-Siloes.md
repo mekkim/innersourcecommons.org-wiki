@@ -26,18 +26,18 @@ For net-new acquisition
 
 Make the acquired teams feel secure in the new environment by
    
-0. Establish a neutral (well respected) governance committee _across both companies_ that selects from the different options across these siloes to converge and integrate.   
+1. Establish a neutral (well-respected) governance committee _across both companies_ that selects from the different options across these siloes to converge and integrate.   
 
-1. Come up with rational rules for managing code redundancy as a result of acquisition
- - Joint effort between two teams to bring new software into existing platforms. Not tied to job security.
- - Same ground rules for tooling platforms.
+2. Come up with rational rules for managing code redundancy as a result of acquisition
+ - Joint effort between two teams to bring new software into existing platforms. If allowable/controllable, software selection not tied to job security.
+ - Same ground rules as above for determining tooling platforms.
 
-2. Giving developers and middle management good on-boarding training with InnerSourcing as part of it. 
+3. Giving developers and middle management good on-boarding training with InnerSourcing as part of it. 
  - Clear guidance on how to bring their software onto existing platform. 
 
-3. Make a few of them Trusted Committer so they feel included.   
+4. Make a few of them Trusted Committer so they feel included.   
 
-4. Give them time to get comfortable with the new environment.   
+5. Give them time to get comfortable with the new environment.   
 
  
 
@@ -45,7 +45,7 @@ Discoverability and visibility across the different organization.
   
 ----------------------------------
 For post-acquisition legacy silo
-For net-new acquisition
+
 
 Make the acquired teams feel secure in the new environment by   
 1. Giving them a good on-broading training with inner sourcing as part of it. To bring their software onto existing platform  
