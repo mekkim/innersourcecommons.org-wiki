@@ -7,12 +7,17 @@ Acquisition(s) resulting in multiple cultural perspectives and different process
 Inefficient/Duplicative development across teams because they are siloed
 
 ## Forces  
-Used to different tools and reluctant to change.  
-Competing middle managers.  
-Politics and egos.  
-Lack of awareness.  
-Lack of flexibility.  
-Fear of loss of identity  
+- Used to different tools and reluctant to change.  
+- Competing middle managers  
+- Politics and egos  
+- Lack of awareness  
+- Lack of flexibility.
+- Bi-directional fear/Lack of trust
+- Fear of losing one's job
+- Fear of loss of control  
+- Fear of loss of identity
+- Rigid timelines 
+- Resource constraints to provide for overhead 
 
 ## Sketch (optional)
 
