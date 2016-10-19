@@ -1,7 +1,7 @@
 ## Title  Overcome Acquisition based Siloes
 
 ## Context
-History of Acquisition resulting in multiple cultural perspectives and different processes.
+Acquisition(s) resulting in multiple cultural perspectives and different processes.
 
 ## Problem  
 Inefficient/Duplicative development across teams because they are siloed
