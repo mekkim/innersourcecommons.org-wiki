@@ -22,7 +22,7 @@ Inefficient/Duplicative development across teams because they are siloed
 ## Sketch (optional)
 
 ## Solution  
-For net-new acquisition
+**For net-new acquisition**
 
 Make the acquired teams feel secure in the new environment by
    
@@ -43,7 +43,7 @@ Make the acquired teams feel secure in the new environment by
 6. Discoverability and visibility across the different organization.
   
 ----------------------------------
-For post-acquisition legacy silo
+**For post-acquisition legacy silo**
 
 
 Make the acquired teams feel secure in the new environment by   
