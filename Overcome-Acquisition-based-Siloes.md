@@ -29,7 +29,8 @@ Make the acquired teams feel secure in the new environment by
 1. Establish a neutral (well-respected) governance committee _across both companies_ that selects from the different options across these siloes to converge and integrate.   
 
 2. Come up with rational rules for managing code redundancy as a result of acquisition
- - Joint effort between two teams to bring new software into existing platforms. If allowable/controllable, software selection not tied to job security.
+ - Joint effort between two teams to bring new software into existing platforms. 
+ - If allowable/controllable, initial software selection not tied to job security.
  - Same ground rules as above for determining tooling platforms.
 
 3. Giving developers and middle management good on-boarding training with InnerSourcing as part of it. 
@@ -39,9 +40,7 @@ Make the acquired teams feel secure in the new environment by
 
 5. Give them time to get comfortable with the new environment.   
 
- 
-
-Discoverability and visibility across the different organization.
+6. Discoverability and visibility across the different organization.
   
 ----------------------------------
 For post-acquisition legacy silo
