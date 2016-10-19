@@ -52,7 +52,9 @@ Make the acquired teams feel secure in the new environment by
 3. Give them time to get comfortable with the new environment.   
 
 A neutral (well respected) governance committee that selects from the different options across these siloes to converge and integrate.    
-Discoverability and visibility across the different organization.  
+Discoverability and visibility across the different organization. 
+
+ 
 ---------------------------------------------
 
 ## Resulting Context
@@ -67,6 +69,8 @@ Draft
 
 ## Author  
 David Marcucci, Nicholas Stahl, Padma Sudarsan, Ryan Bellmore, Erin Bank
+
+
 --------------------------------------------------------------
 ## Title  Overcome Acquisition-based Siloes (multiple patterns)
 Pattern 2: Management level
