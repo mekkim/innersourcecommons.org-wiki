@@ -2,7 +2,7 @@
 Pattern 1: Developer level
 
 ## Context
-Acquisition(s) resulting in multiple cultural perspectives and different processes. Developer is aware and InnerSource program environment is available to them.
+Acquisition(s) resulting in multiple cultural perspectives and different processes. Developer is aware and InnerSource program environment is available to them. Post-acquisition, so this won't account for code decisions that were made around acquisition.
 
 ## Problem  
 Inefficient/Duplicative development across teams because they are siloed
@@ -24,7 +24,9 @@ Inefficient/Duplicative development across teams because they are siloed
 ## Solution  
 For net-new acquisition
 
-Make the acquired teams feel secure in the new environment by   
+Make the acquired teams feel secure in the new environment by
+   
+0. Establish a neutral (well respected) governance committee _across both companies_ that selects from the different options across these siloes to converge and integrate.   
 
 1. Come up with rational rules for managing code redundancy as a result of acquisition
  - Joint effort between two teams to bring new software into existing platforms. Not tied to job security.
@@ -37,8 +39,10 @@ Make the acquired teams feel secure in the new environment by
 
 4. Give them time to get comfortable with the new environment.   
 
-A neutral (well respected) governance committee that selects from the different options across these siloes to converge and integrate.    
-Discoverability and visibility across the different organization.  
+ 
+
+Discoverability and visibility across the different organization.
+  
 ----------------------------------
 For post-acquisition legacy silo
 For net-new acquisition
