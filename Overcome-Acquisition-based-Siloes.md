@@ -25,9 +25,17 @@ Inefficient/Duplicative development across teams because they are siloed
 For net-new acquisition
 
 Make the acquired teams feel secure in the new environment by   
-1. Giving them a good on-broading training with inner sourcing as part of it. To bring their software onto existing platform  
-2. Make a few of them Trusted committer so they feel included.   
-3. Give them time to get comfortable with the new environment.   
+
+1. Come up with rational rules for managing code redundancy as a result of acquisition
+ - Joint effort between two teams to bring new software into existing platforms. Not tied to job security.
+ - Same ground rules for tooling platforms.
+
+2. Giving developers and middle management good on-boarding training with InnerSourcing as part of it. 
+ - Clear guidance on how to bring their software onto existing platform. 
+
+3. Make a few of them Trusted Committer so they feel included.   
+
+4. Give them time to get comfortable with the new environment.   
 
 A neutral (well respected) governance committee that selects from the different options across these siloes to converge and integrate.    
 Discoverability and visibility across the different organization.  
