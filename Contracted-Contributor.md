@@ -76,6 +76,6 @@ abandons the initiative altogether.
 
 ## Authors
 
-Georg Grütter (Robert Bosch GmbH)
-Diogo Fregonese (Robert Bosch GmbH)
-Robert Hansel (Robert Bosch GmbH)
+- Georg Grütter (Robert Bosch GmbH)
+- Diogo Fregonese (Robert Bosch GmbH)
+- Robert Hansel (Robert Bosch GmbH)
