@@ -4,8 +4,8 @@ Company A has started an InnerSource initiative. One of the goals for this
 initiative is to foster innovation by allowing every associate to voluntarily
 contribute to InnerSource projects, regardless of topic and business unit. 
 After a year, only a few voluntary contributions have been received. While
-engaging with potential individual contributors, the Dedicated Community Leader
-(pattern link) has consistently learned that the contributors in question were
+engaging with potential individual contributors, the [[Dedicated Community Leader]]
+has consistently learned that the contributors in question were
 not allowed to contribute or felt that their respective line managers would
 not allow them to contribute, if they asked.
 
@@ -41,7 +41,7 @@ abandons the initiative altogether.
 
 ## Solution
 
-- Set up a governance office (pattern link?) with central funding and budgetary
+- Set up a governance office (_tbd. pattern link_) with central funding and budgetary
   independency from business units.
 - The governance office sets up formal contracting between associate and his
   line management stating the ground rules for the associate participating in
@@ -54,7 +54,7 @@ abandons the initiative altogether.
   time he participates in the InnerSource project with central funding. 
 - The governance office mediates between the associate and his line management
   in case of conflict regarding the participation in the InnerSource project.
-- The dedicated community leader (pattern link) participates in or provides 
+- The [[Dedicated Community Leader]] participates in or provides 
   input for the performance review of every associate contracted for more than
   20 % of his capacity.
 
