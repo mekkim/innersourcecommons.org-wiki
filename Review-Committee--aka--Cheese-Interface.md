@@ -1,6 +1,6 @@
 ## Title
 
-Review Committee / Cheese Interface
+_Review Committee_ (aka _Cheese Interface_)
 
 ## Context
 
