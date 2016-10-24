@@ -31,7 +31,7 @@ A community leader with the properties described above will lend a face and embo
 
 ## Known Instances
 
-Robert Bosch GmbH
+BIOS at Robert Bosch GmbH
 
 ## Status
 
