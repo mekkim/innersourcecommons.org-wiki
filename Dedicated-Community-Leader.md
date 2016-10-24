@@ -1,3 +1,7 @@
+## Title
+
+__Dedicated Community Leader_
+
 ## Problem
 
 Company A wants to initiate an InnerSource initiative in order to foster collaboration across organisational boundaries. Management has selected a suitable pilot topic for the first InnerSource community and expects contributions from many business units across the organisation. Company A has nominated a new hire to head the community for 50 % of his work time, because he was not yet 100 % planned for. After 6 months, the community has received only a few contributions, most of which are from a single business unit. Company A replaces the community leader with someone who has a longer history in the company, this time for only 30 % of his time. After another 6 months, the number of contributions has picked up only  marginally. Company A is no longer convinced that InnerSource helps to achieve their goal of increased, cross divisional collaboration and abandons InnerSource. 
