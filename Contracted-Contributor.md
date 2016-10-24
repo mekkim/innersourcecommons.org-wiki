@@ -1,3 +1,7 @@
+## Title
+
+_Contracted Contributor_ (aka _Free Electron_)
+
 ## Problem
 
 Company A has started an InnerSource initiative. One of the goals for this
