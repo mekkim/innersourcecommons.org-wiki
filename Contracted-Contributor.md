@@ -74,6 +74,14 @@ abandons the initiative altogether.
 - With a stable group of contributors, it is more likely that some of them will
   eventually achieve trusted committer status.
 
+## Known Instances
+
+Robert Bosch GmbH
+
+## Status
+
+_Draft Pattern_
+
 ## Authors
 
 - Georg Grütter (Robert Bosch GmbH)
