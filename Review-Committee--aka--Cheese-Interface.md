@@ -35,7 +35,10 @@ Review Committee / Cheese Interface
 BIOS at Robert Bosch GmbH
 
 ## Status
-Draft
 
-## Author
-Georg Grütter, Robert Bosch GmbH
+_Draft Pattern_
+
+## Authors
+
+- Georg Grütter, Robert Bosch GmbH
+- Diogo Fregonese, Robert Bosch GmbH
