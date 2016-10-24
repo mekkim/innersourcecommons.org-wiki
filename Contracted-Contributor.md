@@ -76,7 +76,7 @@ abandons the initiative altogether.
 
 ## Known Instances
 
-Robert Bosch GmbH
+BIOS at Robert Bosch GmbH
 
 ## Status
 
