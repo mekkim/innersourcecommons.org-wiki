@@ -1,6 +1,6 @@
 ## Title
 
-__Dedicated Community Leader_
+_Dedicated Community Leader_
 
 ## Problem
 
