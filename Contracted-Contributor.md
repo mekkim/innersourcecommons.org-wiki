@@ -84,7 +84,8 @@ abandons the initiative altogether.
     - Not handled at all. Most important message: commitment of the central org to fund these activities (expresses blessing from top level management). Some BUs provide internal services (have to justify every hour); this allows their participation.
 * Constraining scope of InnerSource to specific types (internal facing vs. public facing products)?
     - BU's allowed to use their code for products, but most was internal focused.
-* Tried to connect product lines into an InnerSource community (co-create something they need for their product lines); implemented governance with central coordination and to set their focus for InnerSource scope. Still big challenges (not invented here).
+* Tried to connect product lines into an InnerSource community (co-create something they need for their product lines); implemented governance with central coordination and to set their focus for InnerSource scope. Still big challenges (not invented here). Project management activities through guardians.
+     - Setting: predominant one wasn't participation in Product development but free innovation.
 
 ## Resulting Context
 
@@ -97,10 +98,13 @@ abandons the initiative altogether.
   participation in InnerSource activities.
 - A formal contracting increases transparency and provides a better overview
   about the associate's available capacity for his business unit and
-  InnerSource projects, thus reducing the risk of "over-booked/planed
+  InnerSource projects, thus reducing the risk of "over-booked/planned
   capacity".
 - With a stable group of contributors, it is more likely that some of them will
   eventually achieve trusted committer status.
+
+* A contract signed by line manager, contributor and the leader of the governance office and the community leader.
+* See if each of these isn't a force: lack of transparency--line manager doesn't know what his person is doing something anymore. Leave it here but also add them in the forces. These are things that make the problem difficult to solve.
 
 ## Known Instances
 
