@@ -11,7 +11,7 @@ After a year, only a few voluntary contributions have been received. While
 engaging with potential individual contributors, the [[Dedicated Community Leader]]
 has consistently learned that the contributors in question were
 not allowed to contribute or felt that their respective line managers would
-not allow them to contribute, if they asked.
+not allow them to contribute, if they would ask.
 
 As a result, the total number of contributors remained small and progress was
 not as fast as expected by top level management. Furthermore, contributions
@@ -20,6 +20,10 @@ belonged to.  Innovation did not happen in the expected scale. Top management
 is no longer convinced that InnerSource yields the expected benefits and
 abandons the initiative altogether.
 
+* Clarify: "Not allowed to contribute"--by line managers
+* Seems to be several problems: not getting many contributions, line manager issue, top management not convinced that they are getting the benefits (how do you keep top management happy). Think about: what is really different; what part of the problem statement is solved by the solution.
+* **Introduce what was observed; then note that the main problem is XYZ**
+
 ## Context
 
 - The InnerSource initiative is sponsored by top level management.
@@ -27,7 +31,10 @@ abandons the initiative altogether.
   projects for 100 %.
 - Cross organizational collaboration is not the norm.
 - Contributions to InnerSource projects are expected to be made during working
-  hours.
+  hours, not during free time.
+
+* Top level management is aware, expecting savings, putting in money. Is this budget being put into saving capacity for InnerSource? Is a barrier preventing this? Where is that money going? People don't have to hide from top level management.
+* Is the budget in form of money? Has top level management fully bought into this? Budget is just one component. Point out how invested top management is.
 
 ## Forces
 
