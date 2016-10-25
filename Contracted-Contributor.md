@@ -35,20 +35,31 @@ abandons the initiative altogether.
 
 * Top level management is aware, expecting savings, putting in money. Is this budget being put into saving capacity for InnerSource? Is a barrier preventing this? Where is that money going? People don't have to hide from top level management.
 * Is the budget in form of money? Has top level management fully bought into this? Budget is just one component. Point out how invested top management is.
+* Line management (mid-level) need to have some relief (explicit air cover) to ensure they are incentivized to support the behavior. So define what the top level support really means and how it relates to mid-level management. If there is no support at the mid-level, that's a huge problem. If there is and there is still not an InnerSource behavior, then that's different problem.
+* Meta comment: use pull requests - review changes through this mechanism.
+* Meta comment: You could keep primary authors and list acknowledgements of those who had contributed a lot. Useful contact information (a resource). 
 
 ## Forces
 
 - Managers of business units are held accountable for their results. Reducing
   the capacity of an associate contributing to an InnerSource project rather
-  than the goals of the business unit will make it harder for them to reach or
+  than the goals of the business unit will make it harder for the managers to reach or
   exceed their goals.
 - The more time an associate spends on contributions to an InnerSource project
   which does not benefit his day-to-day work, the more will the workload for
   his teammates in his business unit increase.
-- The individual contributor would like to particiate to enhance his
+- The individual contributor would like to participate to enhance his
   professional network within the company and gain knowledge and experience
   with both the InnerSource method and the technical area he makes a
   contribution to.
+
+* Everyone assessed at the end of the year based on what the line manager thinks they should do; so whatever the contributor does should be recognized.
+    - relevance to the career path of the contributor
+* Managers don't feel they have air cover.
+    - Line managers would just need to let people join; can they accept that capacity? 
+    - Line managers also have to be reviewed (performance) and have to justify how they spend their capacity. 
+    - Line managers usually don't have targets outside their own organization (should go into the context); managers should contribute some capacity to company's InnerSource ambitions (might be part of the solution).
+ 
 
 ## Solution
 
