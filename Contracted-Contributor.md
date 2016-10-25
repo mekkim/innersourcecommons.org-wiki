@@ -64,7 +64,7 @@ abandons the initiative altogether.
 ## Solution
 
 - Set up a governance office (_tbd. pattern link_) with central funding and budgetary
-  independency from business units.
+  independence from business units.
 - The governance office sets up formal contracting between associate and his
   line management stating the ground rules for the associate participating in
   the InnerSource project. The contracting specifies a maximum percentage of
@@ -79,6 +79,12 @@ abandons the initiative altogether.
 - The [[Dedicated Community Leader]] participates in or provides 
   input for the performance review of every associate contracted for more than
   20 % of his capacity.
+
+* For the line manager focused on deadlines and time, how was that handled (vs. cost)?
+    - Not handled at all. Most important message: commitment of the central org to fund these activities (expresses blessing from top level management). Some BUs provide internal services (have to justify every hour); this allows their participation.
+* Constraining scope of InnerSource to specific types (internal facing vs. public facing products)?
+    - BU's allowed to use their code for products, but most was internal focused.
+* Tried to connect product lines into an InnerSource community (co-create something they need for their product lines); implemented governance with central coordination and to set their focus for InnerSource scope. Still big challenges (not invented here).
 
 ## Resulting Context
 
