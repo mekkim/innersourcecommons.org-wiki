@@ -2,12 +2,13 @@
 Pattern 1: Developer level
 
 ## Context
-Acquisition(s) resulting in multiple cultural perspectives and different processes. Developer is aware and InnerSource program environment is available to them. Post-acquisition, so this won't account for code decisions that were made around acquisition.
+Acquisition(s) resulting in multiple cultural perspectives. Developer is aware and InnerSource program environment is available to them. Post-acquisition, so this won't account for code decisions that were made around acquisition.
 
 ## Problem  
 Inefficient/Duplicative development across teams because they are siloed
 
 ## Forces  
+- Different processes in place
 - Used to different tools and reluctant to change.  
 - Competing middle managers 
 - Rigid timelines   
@@ -26,12 +27,12 @@ Inefficient/Duplicative development across teams because they are siloed
 
 Make the acquired teams feel secure in the new environment by
    
-1. Establish a neutral (well-respected) governance committee _across both companies_ that selects from the different options across these siloes to converge and integrate.   
+1. Establish a neutral (well-respected) governance committee _across both companies_ that selects from the different options across these silos to converge and integrate. (_validated_).   
 
-2. Come up with rational rules for managing code redundancy as a result of acquisition
- - Joint effort between two teams to bring new software into existing platforms. 
- - If allowable/controllable, initial software selection not tied to job security.
- - Same ground rules as above for determining tooling platforms.
+2. Come up with rational rules for managing code redundancy as a result of acquisition (_validated_)
+ - Joint effort between two teams to bring new software into existing platforms. (_validated_)
+ - If allowable/controllable, initial software selection not tied to job security. (_not validated_)
+ - Same ground rules as above for determining tooling platforms. (_validated_)
 
 3. Giving developers and middle management good on-boarding training and mentoring with InnerSourcing as part of it. 
  - Clear guidance on how to bring their software onto existing platform.
@@ -41,19 +42,19 @@ Make the acquired teams feel secure in the new environment by
 
 5. Give them time to get comfortable with the new environment - a generous, realistic grace period for ramping on new company procedures/processes. Not uncommon for this period to be up to a year but there must be a mutually agreed-to deadline. Being "fully integrated" requires a certain level of representation among Trusted Committers from both companies.
 
-6. Discoverability and visibility across the different organization.
  
 
 ## Resulting Context
-Siloes are broken and teams working together
-This pattern does not address potential cultural issues due to acquisition.  
+- Silos are broken and teams working together
+- This pattern does not address potential cultural issues due to the acquisition.  
 
 ## Rationale (optional)
 
 ## Known instances (optional)
+Partially validated
 
-## Status  
-Draft
+## Status 
+Pattern Idea - Draft In Progress
 
 ## Author  
 David Marcucci, Nicholas Stahl, Padma Sudarsan, Ryan Bellmore, Erin Bank 
