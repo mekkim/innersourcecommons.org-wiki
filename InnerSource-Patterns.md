@@ -18,10 +18,15 @@ The pattern form is useful for describing proven patterns but it could also be u
 Setup meetings with pattern Authors to work through the patterns. Note the team can use Googledocs or any other tool to work on the pattern. However Wiki is the final destination for the patterns. It is recommended that Wiki be kept as up-to-date as possible. Should keep the status and target updated for each pattern in the spreadsheet.
 3. Every 2 weeks (or even sooner if necessary) we will have a meeting with a larger team and review the patterns.
 4. Folks who want to join the pattern mining team but are new to this please let us know. We can bring you up to speed. 
+5. Groups who have some [[Lessons Learned from patterns activities]] can share them.
 
 If you don't have access yet to the google drive shared folder, contact @thyao, @silona or @cedric on the Slack channel. They can add you to the google group. @cedric can ensure you have access to the #innersource-patterns slack channel.
 
+## Pattern States
+* [[Pattern States]]
+
 ## Reviewed Patterns
+* [[Contracted Contributor]] - *first review 2016-10-25*
 
 ## Proven Patterns Draft (not yet reviewed)
 * [[Common Requirements]]
@@ -32,7 +37,6 @@ If you don't have access yet to the google drive shared folder, contact @thyao, 
 * [Reluctance to receive contributions](https://docs.google.com/document/d/13QDN-BpE_BixRFVGjao32n4Ctim0ROXAHbBWMBOijb4/edit)
 * [Draft Pattern Overcoming Project Management Time Pressures](https://github.com/paypal/InnerSourceCommons/wiki/Draft-Pattern---Overcoming-Project-Management-Time-Pressures)
 * [[Dedicated Community Leader]]
-* [[Contracted Contributor]]
 
 ## Pattern brainstormed ideas (not yet proven)
 * [[Different repo for shared code than the product org uses in its build]]
