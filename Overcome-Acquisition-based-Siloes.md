@@ -33,16 +33,33 @@ Make the acquired teams feel secure in the new environment by
  - If allowable/controllable, initial software selection not tied to job security.
  - Same ground rules as above for determining tooling platforms.
 
-3. Giving developers and middle management good on-boarding training with InnerSourcing as part of it. 
- - Clear guidance on how to bring their software onto existing platform. 
+3. Giving developers and middle management good on-boarding training and mentoring with InnerSourcing as part of it. 
+ - Clear guidance on how to bring their software onto existing platform.
+ - Definition of roles including Contributor and Trusted Committer  
 
-4. Make a few of them Trusted Committer so they feel included.   
+4. Make it clear that there are career advancement opportunities that come along with actively participating as well as with being a Trusted Committer.
 
-5. Give them time to get comfortable with the new environment.   
+5. Give them time to get comfortable with the new environment - a generous, realistic grace period for ramping on new company procedures/processes. Not uncommon for this period to be up to a year but there must be a mutually agreed-to deadline. Being "fully integrated" requires a certain level of representation among Trusted Committers from both companies.
 
 6. Discoverability and visibility across the different organization.
-  
+ 
+
+## Resulting Context
+Siloes are broken and teams working together
+This pattern does not address potential cultural issues due to acquisition.  
+
+## Rationale (optional)
+
+## Known instances (optional)
+
+## Status  
+Draft
+
+## Author  
+David Marcucci, Nicholas Stahl, Padma Sudarsan, Ryan Bellmore, Erin Bank 
 ----------------------------------
+Pattern 2
+
 **For post-acquisition legacy silo**
 
 
