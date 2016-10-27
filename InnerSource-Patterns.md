@@ -33,7 +33,7 @@ If you don't have access yet to the google drive shared folder, contact @thyao, 
 * [[Contained inner source enables collaborative product development]]
 * [Review Committee Cheese Interface](https://github.com/paypal/InnerSourceCommons/wiki/Review-Committee--aka--Cheese-Interface)
 * [[Overcome Acquisition based Siloes]]  
-* [[Open source components are preferred over proprietary one]]
+* [[Open Source trumps InnerSource]]
 * [Reluctance to receive contributions](https://docs.google.com/document/d/13QDN-BpE_BixRFVGjao32n4Ctim0ROXAHbBWMBOijb4/edit)
 * [Draft Pattern Overcoming Project Management Time Pressures](https://github.com/paypal/InnerSourceCommons/wiki/Draft-Pattern---Overcoming-Project-Management-Time-Pressures)
 * [[Dedicated Community Leader]]
@@ -42,6 +42,9 @@ If you don't have access yet to the google drive shared folder, contact @thyao, 
 * [[Different repo for shared code than the product org uses in its build]]
 * [[Pattern: Share Your Code to Get More Done - Likely Contributors Variant]]
 * [[Pattern: change the developers mindset]]
+* [[Don't bother looking]]
+* [[Badly named piles]]
+* [[Junkyard Styled Inner Sourcing]]
 
 ## Pattern donuts (needing a solution)  
 
