@@ -32,7 +32,7 @@ If you don't have access yet to the google drive shared folder, contact @thyao, 
 * [[Common Requirements]]
 * [[Contained inner source enables collaborative product development]]
 * [Review Committee Cheese Interface](https://github.com/paypal/InnerSourceCommons/wiki/Review-Committee--aka--Cheese-Interface)
-* [[Overcome Acquisition based Siloes]]  
+* [[Overcome Acquisition based Silos]]  
 * [[Open Source trumps InnerSource]]
 * [Reluctance to receive contributions](https://docs.google.com/document/d/13QDN-BpE_BixRFVGjao32n4Ctim0ROXAHbBWMBOijb4/edit)
 * [Draft Pattern Overcoming Project Management Time Pressures](https://github.com/paypal/InnerSourceCommons/wiki/Draft-Pattern---Overcoming-Project-Management-Time-Pressures)
