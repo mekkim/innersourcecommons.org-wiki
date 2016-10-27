@@ -1,9 +1,19 @@
 ## Title
-The Invented Here bias or internally developed
+Open Source trumps InnerSource
+* ORIGINAL: The Invented Here bias or internally developed
 
 ## Statement of Problem
+* People find the InnerSource project but, after all things are considered, even if the InnerSource component meets their needs, they still go with the open source component.
 * ORIGINAL: Developers tend to select open source components rather than internally developed components, which results in poorer quality components or also makes it difficult to sustain internal component development.
 * NEW: Different BLs are selecting different SW components to do the same function, resulting in inconsistencies in the user experience.
+
+* PROBLEM: Not finding stuff internally 
+    - perhaps an easy fix through a mechanism to provide visibility of the internal SW components?
+    - force: many silos in the company; difficult to reach the developer base across those silos
+    - force: hard to find stuff in github (especially if names are cryptic and keywords aren't used)
+    - solution: process change to first check for internal solutions for this problem
+    - solution: tool with a central view (but people are more inclined to google externally than look internally)
+* PROBLEM: People are aware of internal options and open source options but people still tend to use the open source components
 
 ## Context
 * ORIGINAL: Internal component is well written and there are no quality problems with the software. Whatever component is selected does not need to be forked. The internal component was created and more complete before the open source was available. People are aware there is an internally developed software component.
