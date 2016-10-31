@@ -129,6 +129,7 @@ abandons the initiative altogether.
 - With a stable group of contributors, it is more likely that some of them will
   eventually achieve trusted committer status.
 
+**Review Comments**
 * **(done: in solution)** A contract signed by line manager, contributor and the leader of the governance office and the community leader.
 * **(done)** See if each of these isn't a force: lack of transparency--line manager doesn't know what his person is doing something anymore. Leave it here but also add them in the forces. These are things that make the problem difficult to solve.
 
