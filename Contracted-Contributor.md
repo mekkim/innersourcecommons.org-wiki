@@ -108,9 +108,9 @@ abandons the initiative altogether.
 
 * **(done)** For the line manager focused on deadlines and time, how was that handled (vs. cost)?
     - Not handled at all. Most important message: commitment of the central org to fund these activities (expresses blessing from top level management). Some BUs provide internal services (have to justify every hour); this allows their participation.
-* **(question: should this be part of the solution?)** Constraining scope of InnerSource to specific types (internal facing vs. public facing products)?
+* **(done - see _Known Uses_)** Constraining scope of InnerSource to specific types (internal facing vs. public facing products)?
     - BU's allowed to use their code for products, but most was internal focused.
-* **(open)** Tried to connect product lines into an InnerSource community (co-create something they need for their product lines); implemented governance with central coordination and to set their focus for InnerSource scope. Still big challenges (not invented here). Project management activities through guardians.
+* **(open. Question: this seems to be more of a description of the Nokia approach to InnerSource. How does this apply to this pattern?)** Tried to connect product lines into an InnerSource community (co-create something they need for their product lines); implemented governance with central coordination and to set their focus for InnerSource scope. Still big challenges (not invented here). Project management activities through guardians.
      - Setting: predominant one wasn't participation in Product development but free innovation.
 
 ## Resulting Context
