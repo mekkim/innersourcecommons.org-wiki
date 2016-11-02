@@ -44,10 +44,10 @@ abandons the initiative altogether.
 
 ## Forces
 
-- Managers of business units are held accountable for their results. Reducing
-  the capacity of an associate contributing to an InnerSource project rather
-  than the goals of the business unit will make it harder for the managers to reach or
-  exceed their goals.
+- Managers of business units are held accountable for their results. Letting their
+  staff participate in InnerSource activities not contributing to his organization
+  would effectively reduce the capacity of his unit. This will likely make it harder
+  for the managers to reach or exceed their goals.
 - The performance review of all employees is based on what their line managers
   think they should do. Line managers (and HR) need to consider InnerSource
   activities as career relevant or else, the performance of employees participating
@@ -74,9 +74,9 @@ abandons the initiative altogether.
 
 * **(done)** Everyone assessed at the end of the year based on what the line manager thinks they should do; so whatever the contributor does should be recognized.
     - relevance to the career path of the contributor 
-* **(open)** Managers don't feel they have air cover.
-    - **(open)** Line managers would just need to let people join; can they accept that capacity? (Georg: that is what I tried to point out with my first bullet point above)
-    - **(open)** Line managers also have to be reviewed (performance) and have to justify how they spend their capacity. (Georg: see first bullet point. Not clear enough?)
+* **(done)** Managers don't feel they have air cover.
+    - **(done - changed working of first bullet point)** Line managers would just need to let people join; can they accept that capacity? (Georg: that is what I tried to point out with my first bullet point above)
+    - **(done - changed working of first bullet point)** Line managers also have to be reviewed (performance) and have to justify how they spend their capacity. (Georg: see first bullet point. Not clear enough?)
     - **(done)** Line managers usually don't have targets outside their own organization (should go into the context); managers should contribute some capacity to company's InnerSource ambitions (might be part of the solution).
  
 
