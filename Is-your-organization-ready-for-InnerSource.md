@@ -5,8 +5,8 @@
   * What does your management support look like?
   * Transparency?
 * What is your coding/communication environment?
-  * Is your Codebase in github or publically available/viewable to all employees?
-  * Do you have an employees that have already been involved in Open Source?
+  * Is your Codebase in github or publicly available/viewable to all employees?
+  * Do you have employees that have already been involved in Open Source?
     * Is their input listened to?
   * Code review?
   * Unit testing | CI/CD
@@ -26,10 +26,10 @@
   * Ongoing tracking of  
     * Resources
     * Time
-   * Cost
-  * Have you identified an initial team to rollout with?
-    * Agile to fail fast at first? Or a small project 
-    * Take at least a Quarter or half a year to see
+    * Cost
+  * Have you identified an initial team to roll out with?
+    * Agile to fail fast at first? Or a small project? 
+    * Take at least a quarter or half a year to see
     * Or address levels of InnerSource 
     * See Doc [Is Your Team Ready for InnerSource](Is your team ready for InnerSource)
   * Do you have a way to aggregate your documentation?
@@ -41,6 +41,6 @@
   * What do your resource constraints look like?
     * Educational resources available to learn (sharpen the saw)
 * HR
-  * TCs need promotion path that isn’t Management (fellows)
+  * Trusted Committers (TCs) need promotion path that isn’t Management (fellows)
   * TC code review and TC become Release Managers
   * Roles and responsibilities updated for TCs and POs
