@@ -42,5 +42,5 @@
     * Educational resources available to learn (sharpen the saw)
 * HR
   * Trusted Committers (TCs) need promotion path that isn’t Management (fellows)
-  * TC code review and TC become Release Managers
+  * Trusted Committer (TC) code review and TC become Release Managers
   * Roles and responsibilities updated for TCs and POs
