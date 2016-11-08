@@ -6,12 +6,21 @@ _Dedicated Community Leader_
 
 Company A wants to initiate an InnerSource initiative in order to foster collaboration across organisational boundaries. Management has selected a suitable pilot topic for the first InnerSource community and expects contributions from many business units across the organisation. Company A has nominated a new hire to head the community for 50 % of his work time, because he was not yet 100 % planned for. After 6 months, the community has received only a few contributions, most of which are from a single business unit. Company A replaces the community leader with someone who has a longer history in the company, this time for only 30 % of his time. After another 6 months, the number of contributions has picked up only  marginally. Company A is no longer convinced that InnerSource helps to achieve their goal of increased, cross divisional collaboration and abandons InnerSource. 
 
+**Review Comments**
+- add summary about underlying core problem present in this story at the beginning (possibly boldfaced)
+- add _kicker statement_ after summary to get people interested in the contents (something like a rationale, outcome. Example: "avoid wasted effort on InnerSource"). 
+
 ## Context
 
 - Company A has no prior experience in Open Source or other, community based working models. 
 - Managers in company A are not yet sold on InnerSource.
-- The selected developer has little or no prior experience with the Open Source working model.
-- The selected developer doe not have an extensive network within the company.
+- The initially selected community leader has little or no prior experience with the Open Source working model.
+- The initially selected developer community leader does not have an extensive network within the company.
+
+**Review Comments**
+- clarify who actually bought in to which extent
+- clarify how many resources are available to the InnerSource effort (marketing, capacity)
+- add to first context bullet point: traditional companies might not have the right culture for communities to form naturally without much external stimulation and support.
 
 ## Forces
 
@@ -24,6 +33,9 @@ Company A wants to initiate an InnerSource initiative in order to foster collabo
 - For managers steeped in traditional project management methods, the value contribution of the InnerSource working model is less obvious than that of the methods they are accustomed to. 
 - Managers are more likely to assign their top developers to a project if its value contribution is high and well understood.
 - The more influence a community has on its own course, the more attractive it becomes for contributors. 
+
+**Review comments**
+- managers won't commit experienced developers as a community leader if they are not yet sold on InnerSource and as long as there are other, important projects 
 
 ## Solution
 
