@@ -1,4 +1,4 @@
-## Title  Overcome Acquisition-based Siloes (multiple patterns)
+## Title  Overcome Acquisition-based Silos (multiple patterns)
 Pattern 1: Developer level
 
 ## Context
@@ -161,7 +161,7 @@ David Marcucci, Nicholas Stahl, Padma Sudarsan, Ryan Bellmore, Erin Bank
 
 
 --------------------------------------------------------------
-## Title  Overcome Acquisition-based Siloes (multiple patterns)
+## Title  Overcome Acquisition-based Silos (multiple patterns)
 Pattern 2: Management level
 
 ## Context
