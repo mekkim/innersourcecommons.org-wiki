@@ -22,6 +22,7 @@ Company A wants to initiate an InnerSource initiative in order to foster collabo
 - clarify who actually bought in to which extent
 - clarify how many resources are available to the InnerSource effort (marketing, capacity)
 - add to first context bullet point: traditional companies might not have the right culture for communities to form naturally without much external stimulation and support.
+- clarify size of company
 
 ## Forces
 
@@ -50,7 +51,12 @@ Select a community leader which is experienced in the Open Source working model 
 
 ## Resulting Context
 
-A community leader with the properties described above will lend a face and embody the companies commitment to InnerSource. It will make it more likely that other associates in his network will follow his lead and contribute to InnerSource. Over time, he will be able to build up a stable core team of developers.
+A community leader with the properties described above will lend a face and embody the companies commitment to InnerSource. It will make it more likely that other associates in his network will follow his lead and contribute to InnerSource. Over time, he will be able to build up a stable core team of developers and hence increase the chances of success for the InnerSource project.
+
+**Review comments**
+- maybe add something along the lines of gradually changing the culture of the company and what that culture would look like. 
+- don't make it sound like a silver bullet/magical solution. Other problems are not necessarily addressed by having a great community leader.
+- what are the problems that having a great community leader may not directly address? What else do you need?
 
 ## Known Instances
 
@@ -61,9 +67,15 @@ BIOS at Robert Bosch GmbH -
 
 ## Status
 
-_Draft Pattern_
+_Reviewed Pattern_
 
 ## Authors
 
 - Georg Grütter (Robert Bosch GmbH)
 - Diogo Fregonese (Robert Bosch GmbH)
+
+## Acknowledgements
+
+- Tim Yao
+- Padma Sudarsan
+- Nigel Green
