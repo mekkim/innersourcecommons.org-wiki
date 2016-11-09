@@ -155,3 +155,7 @@ _Draft Pattern_
 - Klaas-Jan Stol
 - Padma Sudarsan
 - Nick Stahl
+
+## Changelog
+
+- 2016-10-26 - first review
