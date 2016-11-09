@@ -26,8 +26,8 @@ If you don't have access yet to the google drive shared folder, contact @thyao, 
 * [[Pattern States]]
 
 ## Reviewed Patterns
-* [[Contracted Contributor]] - *first review 2016-10-25*
-* [[Dedicated Community Leader]] - *first review 2016-11-06*
+* [[Contracted Contributor]]
+* [[Dedicated Community Leader]]
 
 ## Proven Patterns Draft (not yet reviewed)
 * [[Common Requirements]]
