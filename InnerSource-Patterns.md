@@ -27,6 +27,7 @@ If you don't have access yet to the google drive shared folder, contact @thyao, 
 
 ## Reviewed Patterns
 * [[Contracted Contributor]] - *first review 2016-10-25*
+* [[Dedicated Community Leader]] - *first review 2016-11-06*
 
 ## Proven Patterns Draft (not yet reviewed)
 * [[Common Requirements]]
@@ -36,7 +37,6 @@ If you don't have access yet to the google drive shared folder, contact @thyao, 
 * [[Open Source trumps InnerSource]]
 * [Reluctance to receive contributions](https://docs.google.com/document/d/13QDN-BpE_BixRFVGjao32n4Ctim0ROXAHbBWMBOijb4/edit)
 * [Draft Pattern Overcoming Project Management Time Pressures](https://github.com/paypal/InnerSourceCommons/wiki/Draft-Pattern---Overcoming-Project-Management-Time-Pressures)
-* [[Dedicated Community Leader]]
 
 ## Pattern brainstormed ideas (not yet proven)
 * [[Different repo for shared code than the product org uses in its build]]
