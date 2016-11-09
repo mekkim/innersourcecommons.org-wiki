@@ -88,3 +88,7 @@ _Reviewed Pattern_
 - Tim Yao
 - Padma Sudarsan
 - Nigel Green
+
+## Changelog
+
+- **2016-11-06** - first review
