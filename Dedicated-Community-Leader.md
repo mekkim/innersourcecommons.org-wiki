@@ -29,21 +29,19 @@ Consider the following story. Company A wants to initiate an InnerSource initiat
 
 ## Forces
 
-- The more company A invests in a community, the more credible is its commitment to InnerSource.
-- The easier it is to find a contact person for the community, the lower the barrier for first contributions will be.
-- The more continuity there is in leadership of the community, the more likely it will be that business units in company A are willing to use and invest in the software built by the community.
-- The more continuity there is in leadership of the communitiy and the faster the response time to questions and feedback wrt. the work of the community is, the more likely it will be that developers will commit themselves to working in the community.
-- The less influence in selecting a community leader the community has itself, the less credible will company A's commitment to InnerSource be perceived (lack of meritocracy). 
-- The less experienced a community leader is the more likely it is that he will not be able to inspire other, more experienced developers to join his community.
-- For managers steeped in traditional project management methods, the value contribution of the InnerSource working model is less obvious than that of the methods they are accustomed to. 
-- Managers are more likely to assign their top developers to a project if its value contribution is high and well understood.
-- The more influence a community has on its own course, the more attractive it becomes for contributors. 
+If a company does not significantly invest in the initial InnerSource community in terms of budget and capacity for InnerSource, the credibility of its committment to InnerSource might be perceived as questionable. A common impulse of a company with a traditional management culture to a project or initiative not performing as expected will be to replace its leader. Doing that without involving the community and following meritocratic principles will further undermine the companies committment to InnerSource by highlighting the friction between the current company culture and a the target culture - a community culture.
+
+The value contribution of InnerSource projects will not be obvious for many managers which are steeped in traditional project management methods. Those managers are less likely to assign one of their top people, who are usually in high demand by non InnerSource-projects, to an InnerSource project for a significant percentage of their work time.
+
+Community work - especially communication - make up for a significant percentage of a community leaders daily work. At the same time, he will likely also have to spearhead the initial development, too. In the face of limited capacity, inexperienced leaders will tend to focus on development and neglect communication. The barrier for potential contributors to make their first contribution and to commit to the community will be much higher if the community leader is hard to reach or is slow to respond to feedback and questions for lack of time. Furthermore, technically inexperienced leaders will most likely have a harder time to attract and retain highly experienced contributors than a top performer with a high degree of visibility within a company would have. 
+
+If a community can not grow fast enough and pick up enough speed, chances are they won't be able to convincingly demonstrate the potential of InnerSource.
 
 **Review comments**
-- managers won't commit experienced developers as a community leader if they are not yet sold on InnerSource and as long as there are other, important projects 
-- state forces in a way that clarifies how they make the problem harder. Think constraints.
-- maybe reference pattern tbd (start small, experiment then scale up as it has proven successful)
-- clarify role and influence of companies cultural fit for InnerSource 
+- (**Done**) managers won't commit experienced developers as a community leader if they are not yet sold on InnerSource and as long as there are other, important projects 
+- (**Done**) state forces in a way that clarifies how they make the problem harder. Think constraints.
+- (**Open**: I have added something to the problem statement instead) now added that to the maybe reference pattern tbd (start small, experiment then scale up as it has proven successful)
+- (**Done**) clarify role and influence of companies cultural fit for InnerSource 
 
 ## Solution
 
