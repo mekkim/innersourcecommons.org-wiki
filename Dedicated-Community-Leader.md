@@ -45,26 +45,34 @@ If a community can not grow fast enough and pick up enough speed, chances are th
 
 ## Solution
 
-Select a community leader which is experienced in the Open Source working model or similar community based working models, has the required soft-skills to act as a natural leader, inspire community members and has a good network within the company. Empower the community leader to dedicate 100 % of his time to community work and marketing. 
+Select a community leader who 
+- is experienced in the Open Source working model or similar community based working models, 
+- has the required soft-skills to act as a natural leader,
+- is an excellent networker and who
+- inspires community members.
+Empower the community leader to dedicate 100 % of his time to community work including communication and development. 
 
 **Review comments**
-- important point is that community leader is excellent networker - not necessarily already networked
+- (**Done**) important point is that community leader is excellent networker - not necessarily already networked
 
 ## Resulting Context
 
-A community leader with the properties described above will lend a face and embody the companies commitment to InnerSource. It will make it more likely that other associates in his network will follow his lead and contribute to InnerSource. Over time, he will be able to build up a stable core team of developers and hence increase the chances of success for the InnerSource project.
+A community leader with the properties described above will lend a face and embody the companies commitment to InnerSource. It will make it more likely that other associates in his network will follow his lead and contribute to InnerSource. Over time, he will be able to build up a stable core team of developers and hence increase the chances of success for the InnerSource project. By convincingly a large enough audience within his company of the potential of InnerSource, he will make an important contribution to changing the company culture towards a community culture. 
+
+Having excellent and dedicated community leaders is a precondition for the success of InnerSource. It is, however, not a silver bullet. There are many challenges of InnerSource which are above and beyond what a community leader can tackle, such as budgetary, legal, fiscal or other organizational challenges.
+
 
 **Review comments**
-- maybe add something along the lines of gradually changing the culture of the company and what that culture would look like. 
-- don't make it sound like a silver bullet/magical solution. Other problems are not necessarily addressed by having a great community leader.
-- what are the problems that having a great community leader may not directly address? What else do you need?
+- (**Done**) maybe add something along the lines of gradually changing the culture of the company and what that culture would look like. 
+- (**Done**) don't make it sound like a silver bullet/magical solution. Other problems are not necessarily addressed by having a great community leader.
+- (**Done**) what are the problems that having a great community leader may not directly address? What else do you need?
 
 ## Known Instances
 
-BIOS at Robert Bosch GmbH - 
+_BIOS at Robert Bosch GmbH_. Note that InnerSource at Bosch was, for the majority, aimed at increasing innovation and to a large degree dealt with internal facing products. This pattern is currently not used at Bosch for lack of funding.
 
 **Review comment**
-- clarify that we started small and were declared an experiment - scaled up only after initial successes
+- (**Done**) clarify that we started small and were declared an experiment - scaled up only after initial successes
 
 ## Status
 
