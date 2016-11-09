@@ -5,10 +5,10 @@
 ***Where does the problem exist? what are the pre-conditions?***
 
 ## Problem Statement
-***What is the problem - crisp definition of the problem*** 
+***What is the problem - crisp definition of the problem***
 
 ## Forces  
-***What makes the problem difficult? What are the trade-offs?***   
+***What makes the problem difficult? What are the trade-offs? These are constraints that can be changed at a cost.***   
 
 ## Sketch (optional)  
 ***visual illustration***
@@ -26,6 +26,9 @@
 ## Status  
 ***brainstormed solution (not proven), a donut (no solution), a proven solution, a reviewed pattern, an untested idea, an unreviewed draft of a proven solution***
 
-   
+## Changelog
+***Brief summary of the pattern’s important dates. E.g. Drafted on <date>, Reviewed on <date>, Finalized on <date>***
 
-## Author   
+## Author
+***If you need to, find someone in the InnerSource Commons to be the nominal author (As Told To)***
+***You can put acknowledgements here too***   
