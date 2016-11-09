@@ -4,25 +4,28 @@ _Dedicated Community Leader_
 
 ## Problem
 
-Company A wants to initiate an InnerSource initiative in order to foster collaboration across organisational boundaries. Management has selected a suitable pilot topic for the first InnerSource community and expects contributions from many business units across the organisation. Company A has nominated a new hire to head the community for 50 % of his work time, because he was not yet 100 % planned for. After 6 months, the community has received only a few contributions, most of which are from a single business unit. Company A replaces the community leader with someone who has a longer history in the company, this time for only 30 % of his time. After another 6 months, the number of contributions has picked up only  marginally. Company A is no longer convinced that InnerSource helps to achieve their goal of increased, cross divisional collaboration and abandons InnerSource. 
+When starting an InnerSource initiative it is crucial to nominate the right people to lead the communities. Selecting the wrong persons and/or not providing enough capacity for them risks wasted effort and ultimatively the failure of the InnerSource initiative.
+
+Consider the following story. Company A wants to initiate an InnerSource initiative in order to foster collaboration across organisational boundaries. They have decided to start with an experimental phase with limited scope. Management has selected a suitable pilot topic for the first InnerSource community and expects contributions from many business units across the organisation. Company A has nominated a new hire to head the community for 50 % of his work time, because he was not yet 100 % planned for. After 6 months, the community has received only a few contributions, most of which are from a single business unit. Company A replaces the community leader with someone who has a longer history in the company, this time for only 30 % of his time. After another 6 months, the number of contributions has picked up only  marginally. Company A is no longer convinced that InnerSource helps to achieve their goal of increased, cross divisional collaboration and abandons InnerSource. 
 
 **Review Comments**
-- add summary about underlying core problem present in this story at the beginning (possibly boldfaced)
-- add _kicker statement_ after summary to get people interested in the contents (something like a rationale, outcome. Example: "avoid wasted effort on InnerSource"). 
-- add information about initial scope of InnerSource initiative (start small)
+- (**Done**) add summary about underlying core problem present in this story at the beginning (possibly boldfaced)
+- (**Done**) add _kicker statement_ after summary to get people interested in the contents (something like a rationale, outcome. Example: "avoid wasted effort on InnerSource"). 
+- (**Done**) add information about initial scope of InnerSource initiative (start small)
 
 ## Context
 
-- Company A has no prior experience in Open Source or other, community based working models. 
-- Managers in company A are not yet sold on InnerSource.
+- Company A is a large and old company. It has no prior experience in Open Source or other, community based working models. The company culture is best characterized as a classical top down management style - it is generally at odds with community culture.
+- While there are supporters and a sponsor in top level management, middle management in company A is not yet sold on InnerSource.
+- Management has provided a limited budget to fund a part time community leader, only.
 - The initially selected community leader has little or no prior experience with the Open Source working model.
 - The initially selected developer community leader does not have an extensive network within the company.
 
 **Review Comments**
-- clarify who actually bought in to which extent
-- clarify how many resources are available to the InnerSource effort (marketing, capacity)
-- add to first context bullet point: traditional companies might not have the right culture for communities to form naturally without much external stimulation and support.
-- clarify size of company
+- (**Done**) clarify who actually bought in to which extent
+- (**Done**) clarify how many resources are available to the InnerSource effort (marketing, capacity)
+- (**Done**) add to first context bullet point: traditional companies might not have the right culture for communities to form naturally without much external stimulation and support.
+- (**Done**) clarify size of company
 
 ## Forces
 
