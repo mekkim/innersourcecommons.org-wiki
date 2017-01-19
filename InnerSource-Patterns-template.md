@@ -1,11 +1,10 @@
 ## Title  
 
+## Problem Statement
+***What is the problem - crisp definition of the problem***
 
 ## Context  
 ***Where does the problem exist? what are the pre-conditions?***
-
-## Problem Statement
-***What is the problem - crisp definition of the problem***
 
 ## Forces  
 ***What makes the problem difficult? What are the trade-offs? These are constraints that can be changed at a cost.***   
