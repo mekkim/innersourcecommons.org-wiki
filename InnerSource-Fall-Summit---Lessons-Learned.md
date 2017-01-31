@@ -45,4 +45,4 @@
 * Clay Nelson / GitHub / claynelson@github.com | clay@claynelson.org / @claynelson
 * Tim Yao / Nokia / tim.1.yao -at- nokia.com  
 * Padma Sudarsan / Nokia / padma.sudarsan -@- nokia.com
-* Erin Bank / CA Technologies
+* Erin Bank / CA Technologies / erin.bank@ca.com / kruer01@gmail.com / @EMKBank
