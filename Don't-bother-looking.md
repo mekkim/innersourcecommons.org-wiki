@@ -14,19 +14,15 @@ People don't bother looking for internally developed solutions - they might not 
 * No good internal search engine (or not connected to git repositories; and difficult to make this change happen)
 * Users may not know there are common places to find internally developed solutions.
 * People don't expect to find solutions internally.
-* People might be inclined to doubt internal software.
 * Many silos in the company; difficult to reach the developer base across those silos (a communications problem).
 * People might not want to use internal SW because they don't believe it will be helpful
     - might not be maintained
     - might have poor reusability
     - if someone put out a SW internally, the expectation is that they wouldn't have time to support it (vs. open source options)
 
-* META lesson: come up with broad problem statement; discussion shows there are many patterns hidden there.
-* META: brainstorm pattern ideas are seeds
-
 ## Solution
 * Pull in Repo names, descriptions and README.md files into the search engine
-* Process change to first check for internal solutions for this problem
+* Implement process change to first check for internal solutions for this problem
 * Tool with a central view (but people are more inclined to google externally than look internally)
 * Concierge service (guide) to help product people find stuff. Might not scale but could be helpful in the beginning.
 * Need some very visible lighthouse projects that start using inner source components and make positive statements about the inner source program.
