@@ -1,3 +1,5 @@
+[This pattern has been moved for discussion at https://github.com/paypal/InnerSourcePatterns/issues/39]
+
 ## Change the developers mindset
 
 ## Context
