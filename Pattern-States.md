@@ -2,7 +2,7 @@ We probably need to define this; will crowdsource the brainstorming so we can st
 
 A combination of:
 
-* types of patterns: donut pattern, pattern idea, pattern
+* types of patterns: donut, idea, draft
 * draft states: in progress, draft complete, ready for review, ready for 2nd review, etc
 * # of reviews completed: none, one, two, ...
 
