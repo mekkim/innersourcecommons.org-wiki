@@ -1,1 +1,1 @@
-Now located on Github at: https://github.com/paypal/InnerSourcePatterns/blob/master/review-committee-aka-cheese-interface.md
+Now being reviewed on Github at: https://github.com/paypal/InnerSourcePatterns/pull/43/files
