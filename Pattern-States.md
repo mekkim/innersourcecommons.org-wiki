@@ -1,4 +1,4 @@
 # DEPRECATED
 This has been moved to  
-https://github.com/paypal/InnerSourcePatterns/blob/master/resources/pattern-states.md
+https://github.com/paypal/InnerSourcePatterns/blob/master/meta/pattern-states.md
 
