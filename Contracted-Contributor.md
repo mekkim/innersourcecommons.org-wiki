@@ -1,3 +1,8 @@
+# DEPRECATED
+This pattern has been moved to  
+https://github.com/paypal/InnerSourcePatterns/blob/master/contracted-contributor.md
+
+
 ## Title
 
 _Contracted Contributor_ (aka _Free Electron_)
