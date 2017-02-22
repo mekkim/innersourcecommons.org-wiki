@@ -1,3 +1,8 @@
+# DEPRECATED
+This pattern has been moved to  
+https://github.com/paypal/InnerSourcePatterns/blob/master/dedicated-community-leader.md
+
+
 ## Title
 
 _Dedicated Community Leader_
