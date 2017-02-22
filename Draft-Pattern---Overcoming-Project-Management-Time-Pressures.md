@@ -1,3 +1,8 @@
+# DEPRECATED
+This pattern has been moved for discussion to  
+https://github.com/paypal/InnerSourcePatterns/pull/47
+
+
 **Title:** ??  
 
 **Statement of Problem:**  Project management believes timeline pressure and commitments on feature content does not allow for developers to spend the time needed to develop shareable code and provide support.
