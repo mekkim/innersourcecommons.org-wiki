@@ -1,1 +1,3 @@
-Now located on Github at: https://github.com/paypal/InnerSourcePatterns/blob/master/resources/pattern-template.md
+# DEPRECATED
+This has been moved to  
+https://github.com/paypal/InnerSourcePatterns/blob/master/resources/pattern-template.md
