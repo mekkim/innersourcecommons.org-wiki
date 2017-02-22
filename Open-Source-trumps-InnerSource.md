@@ -1,3 +1,8 @@
+# DEPRECATED
+This pattern has been moved for discussion to  
+https://github.com/paypal/InnerSourcePatterns/pull/46
+
+
 ## Title
 Open Source trumps InnerSource
 * ORIGINAL: The Invented Here bias or internally developed
