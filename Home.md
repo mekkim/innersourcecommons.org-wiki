@@ -17,11 +17,10 @@
 * [[InnerSource Commons Fall Summit 2017 Planning]] - started 2016-10-18
 
 ### InnerSource Patterns
-* [InnerSource Patterns Repository](https://github.com/paypal/InnerSourcePatterns)
-    - [List of Patterns](https://github.com/paypal/InnerSourcePatterns#reviewed-patterns-proven-and-reviewed)
-    - [InnerSource Patterns template](https://github.com/paypal/InnerSourcePatterns/blob/master/meta/pattern-template.md)
-    - [How to contribute InnerSource Patterns](https://github.com/paypal/InnerSourcePatterns/blob/master/CONTRIBUTING.md)
-    - [Patterns in Review](https://github.com/paypal/InnerSourcePatterns/pulls)
+* [List of Patterns](https://github.com/paypal/InnerSourcePatterns#reviewed-patterns-proven-and-reviewed)
+* [InnerSource Patterns template](https://github.com/paypal/InnerSourcePatterns/blob/master/meta/pattern-template.md)
+* [How to contribute InnerSource Patterns](https://github.com/paypal/InnerSourcePatterns/blob/master/CONTRIBUTING.md)
+* [Patterns in Review](https://github.com/paypal/InnerSourcePatterns/pulls)
 
 ### Surveys
 * [Questions for a survey of channel participants](InnerSource survey questions) - 2016-06-16
