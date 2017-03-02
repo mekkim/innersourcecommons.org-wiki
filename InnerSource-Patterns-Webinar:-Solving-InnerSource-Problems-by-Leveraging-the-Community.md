@@ -6,7 +6,7 @@ Two ways you can tap into the InnerSource Commons brain trust?
 1. Send a description of your biggest inner source challenge (by DM in slack) to Tim Yao or Erin Bank by COB 2017-03-10 and be a part of the conversation!
 2. Be one of the first to check out the *NEW* [Inner Source Patterns YouTube Channel](http://bit.ly/innersource_patterns_videos).
   
-Welcome to Nokia Meetings 
+*WebEx provided by Nokia* 
 -------------------------------------------
 
 * [Join WebEx meeting](https://nokiameetings.webex.com/nokiameetings/j.php?MTID=m32b7e49aaf97637b5941745eff4f181a)
