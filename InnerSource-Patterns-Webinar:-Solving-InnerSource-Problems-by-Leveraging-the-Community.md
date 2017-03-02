@@ -2,7 +2,8 @@ Donuts anyone?
 
 You're not alone in your quest to transform to a culture of collaboration, mentoring, and transparency! The InnerSource Commons community is sharing successful approaches, challenges and is working together on solutions. To hear about how you benefit from this community or how you can participate,  join the Solving InnerSource Problems webinar **Thursday, 2017-03-16, 9 AM PST/11 AM CST/Noon EST/5 PM CET/6 PM EET/9:30 PM India**.  
 
-Two ways you can tap into the InnerSource Commons brain trust? 
+Two ways you can tap into the InnerSource Commons brain trust?
+ 
 1. Send a description of your biggest inner source challenge (by DM in slack) to Tim Yao or Erin Bank by COB 2017-03-10 and be a part of the conversation!
 2. Be one of the first to check out the *NEW* [Inner Source Patterns YouTube Channel](http://bit.ly/innersource_patterns_videos).
   
