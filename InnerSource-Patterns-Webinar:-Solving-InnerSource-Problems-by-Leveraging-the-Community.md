@@ -8,9 +8,11 @@ Two ways you can tap into the InnerSource Commons brain trust?
   
 Welcome to Nokia Meetings 
 -------------------------------------------
+
 * [Join WebEx meeting](https://nokiameetings.webex.com/nokiameetings/j.php?MTID=m32b7e49aaf97637b5941745eff4f181a)
-* Meeting number: 953 682 849   
+* Meeting number: 953 682 849
 * Meeting password: ZVJps854  
+
 ------------------------------------------
 * Join by phone  
 * 8200300 Internal  
