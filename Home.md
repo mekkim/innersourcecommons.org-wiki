@@ -21,6 +21,7 @@
 * [InnerSource Patterns template](https://github.com/paypal/InnerSourcePatterns/blob/master/meta/pattern-template.md)
 * [How to contribute InnerSource Patterns](https://github.com/paypal/InnerSourcePatterns/blob/master/CONTRIBUTING.md)
 * [Patterns in Review](https://github.com/paypal/InnerSourcePatterns/pulls)
+* [[InnerSource Patterns Webinar: Solving InnerSource Problems by Leveraging the Community]] - 2017-03-16
 
 ### Surveys
 * [Questions for a survey of channel participants](InnerSource survey questions) - 2016-06-16
