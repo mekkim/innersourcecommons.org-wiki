@@ -4,7 +4,7 @@ You're not alone in your quest to transform to a culture of collaboration, mento
 
 Two ways you can tap into the InnerSource Commons brain trust?
  
-1. Send a description of your biggest inner source challenge (by DM in slack) to Tim Yao or Erin Bank by COB 2017-03-10 and be a part of the conversation!
+1. Send a description of your biggest inner source challenge (by DM in slack) to Tim Yao (@thyao) or Erin Bank (@erin_m_b) by COB 2017-03-10 and be a part of the conversation!
 2. Be one of the first to check out the *NEW* [Inner Source Patterns YouTube Channel](http://bit.ly/innersource_patterns_videos).
   
 *WebEx provided by Nokia* 
