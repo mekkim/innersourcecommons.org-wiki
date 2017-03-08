@@ -1,7 +1,7 @@
 ## DEPRECATED
 The Patterns-Wiki is being moved to Github.
 
-* [Github list of patterns](https://github.com/paypal/InnerSourcePatterns)
+* [Github list of patterns](https://github.com/paypal/InnerSourcePatterns#list-of-patterns)
 * [Google Docs list of patterns](https://docs.google.com/spreadsheets/d/17KPZdCoquTnYSj03pX4v2vn8lrSYO_6HK20u1cwaLPg)
 
 We are in the process of moving patterns from the wiki to github.
