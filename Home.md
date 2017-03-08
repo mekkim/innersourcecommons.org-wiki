@@ -8,7 +8,7 @@
 * Are [you](Are you ready for InnerSource?) ready to participate in InnerSource?
 
 ### Helpful Articles/Slides
-* [How to contribute to the website](How to contribute to the website)
+* [How to contribute to the website](https://github.com/paypal/InnerSourceCommons/blob/master/README.md)
 * [How and why you should contribute to this wiki](How and why you should contribute to this wiki)
 * [Enterprise Lessons from Open Source](http://www.slideshare.net/jimjag/inner-source-enterprise-lessons-from-the-open-source-community)
 
