@@ -1,4 +1,6 @@
-Donuts anyone? 
+Donuts anyone?
+
+A donut pattern is a problem without a solution and is a way of asking the InnerSource Commons community for help.
 
 ### Thursday, 2017-03-16 | 9 AM PST / 11 AM CST / Noon EST / 5 PM CET / 6 PM EET / 9:30 PM India
 
