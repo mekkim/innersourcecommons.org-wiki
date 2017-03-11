@@ -1,3 +1,8 @@
+# DEPRECATED
+This pattern has been moved to  
+https://github.com/paypal/InnerSourcePatterns/pull/13
+
+
 ## Title  
 Contained inner source enables collaborative product development
 
