@@ -1,3 +1,8 @@
+# DEPRECATED
+This pattern has been moved to  
+https://github.com/paypal/InnerSourcePatterns/pull/59
+
+
 ## Title
 * Badly named piles
 * Not finding stuff internally 
