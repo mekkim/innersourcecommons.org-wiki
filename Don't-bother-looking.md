@@ -1,3 +1,8 @@
+# DEPRECATED
+This pattern has been moved to  
+https://github.com/paypal/InnerSourcePatterns/pull/60
+
+
 ## Title
 * Don't bother looking
 * Not looking for stuff internally 
