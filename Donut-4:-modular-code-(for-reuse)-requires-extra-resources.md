@@ -1,3 +1,7 @@
+# DEPRECATED
+This pattern has been moved to  
+https://github.com/paypal/InnerSourcePatterns/pull/70
+
 **Title:** ??  
 
 **Statement of Problem:** Management does not want to spend the extra resources needed to develop modular components and make them available in a visible repository for others to use.  
