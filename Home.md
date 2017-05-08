@@ -1,6 +1,7 @@
 ## Welcome to the InnerSourceCommons wiki!
 * [Return to the InnerSource Commons front page](http://paypal.github.io/InnerSourceCommons/)
 * [Links and online resources](https://github.com/paypal/InnerSourceCommons/wiki/Links-and-online-resources-for-the-InnerSource-Commons)
+* [[Participating in the InnerSource Commons]] - a list of companies and institutions
 
 ### Checklists
 * Is your [organization](Is your organization ready for InnerSource?) ready to adopt InnerSource?
@@ -13,6 +14,7 @@
 * [Enterprise Lessons from Open Source](http://www.slideshare.net/jimjag/inner-source-enterprise-lessons-from-the-open-source-community)
 
 ### Summits
+* [[InnerSource Spring Summit 2017 - Lessons Learned]] - 2017-04-16
 * [[InnerSource Fall Summit - Lessons Learned]] - 2016-09-30
 * [[InnerSource Commons Fall Summit 2017 Planning]] - started 2016-10-18
 
