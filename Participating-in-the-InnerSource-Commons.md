@@ -1,5 +1,5 @@
 ## List of participating companies and institutions
-* [Harvard Business Publishing](https://hbr.org)
+* [Harvard Business Review](https://hbr.org)
 * [PayPal](http://paypal.github.io/InnerSourceCommons/)
 
 ## Instructions
