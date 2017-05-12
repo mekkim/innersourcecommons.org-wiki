@@ -1,4 +1,5 @@
 ## List of participating companies and institutions
+* [Bitergia](https://bitergia.com), 2016
 * [Harvard Business Review](https://hbr.org)
 * [PayPal](http://paypal.github.io/InnerSourceCommons/)
 
