@@ -2,6 +2,7 @@
 * [Bitergia](https://bitergia.com), 2016
 * [Harvard Business Review](https://hbr.org)
 * [PayPal](http://paypal.github.io/InnerSourceCommons/)
+* [Robert Bosch GmbH](https://www.bosch.com)
 
 ## Instructions
 * Please add your institution's name to the list above (keep the list in alphabetical order) and the year in which is began participating in the InnerSource Commons. Feel free to hyperlink your company's name to its public website.
