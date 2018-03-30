@@ -1,4 +1,4 @@
-**Title:** Shared Code Repo Different from Build  
+**Title:** Repo for Shared Code Different from Repo the Product Org Uses in its Build 
 
 **Statement of Problem:** Deal with the overhead of having shared code in a separate repository that isn't the same as the project-specific one that is tied to production builds.   
 
