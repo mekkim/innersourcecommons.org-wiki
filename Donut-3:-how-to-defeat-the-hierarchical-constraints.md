@@ -1,4 +1,4 @@
-**Title:** ??  
+**Title:** Corporate culture constrains people to hierarchical goals  
 
 **Statement of Problem:** Corporate culture constrains people to hierarchical goals.  
 
