@@ -30,8 +30,6 @@ Open Source trumps InnerSource
 * Internally developed components should have advantages over competing open source. If you can clearly demonstrate this, it can be persuasive.
 * Part of the reason this is a problem: if different teams are picking different open source components, the situation makes interoperability and integration more difficult; and this could potentially impact the user experience (inconsistency in behaviors).
 
-## Sketch
-See figure 1 in https://drive.google.com/open?id=0B7_9iQb93uBQNlJ0YU5wWmpWYUU 
 
 ## Resolution
 Corporate requirement that internally developed components should be evaluated before we go outside to search for open source component. If the open source component is now more mature, replace the internally developed with the open source. Create some extrinsic rewards to encourage them (initially). Make it easier to find the internal component (discoverability and visibility). Make the process simple and aligned with well known open source methods.
