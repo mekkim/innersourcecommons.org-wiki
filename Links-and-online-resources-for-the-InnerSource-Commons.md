@@ -1,6 +1,6 @@
-* [innersourcecommons.org](http://innersourcecommons.org) - main website
-    - [Github repository with the website pages](https://github.com/paypal/InnerSourceCommons)
-    - [this wiki](https://github.com/paypal/InnerSourceCommons/wiki) (also reachable from innersourcecommons.org/wiki)
+* [innersourcecommons.org](https://innersourcecommons.org) - main website
+    - [Github repository with the website pages](https://github.com/InnerSourceCommons/innersourcecommons.org)
+    - [this wiki](https://github.com/InnerSourceCommons/innersourcecommons.org/wiki) (also reachable from innersourcecommons.org/wiki)
 * [ISC Slack channel #innersourcecommons](https://paypalflow.slack.com/messages/innersourcecommons)
     - you can get [auto-invited to join this slack channel](https://isc-inviter.herokuapp.com/)
     - once online, if you want to help out with the Inner Source patterns work, ask @cedric to be added to the #innersource-patterns slack channel

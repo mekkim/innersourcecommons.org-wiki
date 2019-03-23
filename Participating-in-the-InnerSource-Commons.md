@@ -1,7 +1,7 @@
 ## List of participating companies and institutions
 * [Bitergia](https://bitergia.com), 2016
 * [Harvard Business Review](https://hbr.org)
-* [PayPal](http://paypal.github.io/InnerSourceCommons/)
+* [PayPal](http://paypal.com/)
 * [Robert Bosch GmbH](https://www.bosch.com)
 * [O'Reilly Media](https://oreilly.com/), 2017
 

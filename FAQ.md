@@ -24,7 +24,7 @@ In part this is done because the term "Inner Source" is used for other pursuits 
 ## How does the InnerSourceCommons website differ from the Wiki?
 
 The main website currently functions as a general overview and pointers to resources 
-developed to help explain "inner source" at PayPal; [pull requests to suggest changes](https://github.com/paypal/InnerSourceCommons/tree/master) 
+developed to help explain "inner source" at PayPal; [pull requests to suggest changes](https://github.com/InnerSourceCommons/innersourcecommons.org/tree/master) 
 can be made on github.  
 
 The wiki (which this page is on!) is a collaborative work written by many practicioners 

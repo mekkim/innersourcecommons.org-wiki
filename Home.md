@@ -1,6 +1,6 @@
 ## Welcome to the InnerSourceCommons wiki!
-* [Return to the InnerSource Commons front page](http://paypal.github.io/InnerSourceCommons/)
-* [Links and online resources](https://github.com/paypal/InnerSourceCommons/wiki/Links-and-online-resources-for-the-InnerSource-Commons)
+* [Return to the InnerSource Commons front page](https://innersourcecommons.org/)
+* [Links and online resources](https://github.com/InnerSourceCommons/innersourcecommons.org/wiki/Links-and-online-resources-for-the-InnerSource-Commons)
 * [[Participating in the InnerSource Commons]] - a list of companies and institutions
 
 ### Checklists
@@ -9,7 +9,7 @@
 * Are [you](Are you ready for InnerSource?) ready to participate in InnerSource?
 
 ### Helpful Articles/Slides
-* [How to contribute to the website](https://github.com/paypal/InnerSourceCommons/blob/master/README.md)
+* [How to contribute to the website](https://github.com/InnerSourceCommons/innersourcecommons.org/blob/master/README.md)
 * [How and why you should contribute to this wiki](How and why you should contribute to this wiki)
 * [Enterprise Lessons from Open Source](http://www.slideshare.net/jimjag/inner-source-enterprise-lessons-from-the-open-source-community)
 
@@ -19,10 +19,10 @@
 * [[InnerSource Commons Fall Summit 2017 Planning]] - started 2016-10-18
 
 ### InnerSource Patterns
-* [List of Patterns](https://github.com/paypal/InnerSourcePatterns#list-of-patterns)
-* [InnerSource Patterns template](https://github.com/paypal/InnerSourcePatterns/blob/master/meta/pattern-template.md)
-* [How to contribute InnerSource Patterns](https://github.com/paypal/InnerSourcePatterns/blob/master/CONTRIBUTING.md)
-* [Patterns in Review](https://github.com/paypal/InnerSourcePatterns/pulls)
+* [List of Patterns](https://github.com/InnerSourceCommons/InnerSourcePatterns#list-of-patterns)
+* [InnerSource Patterns template](https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/meta/pattern-template.md)
+* [How to contribute InnerSource Patterns](https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/CONTRIBUTING.md)
+* [Patterns in Review](https://github.com/InnerSourceCommons/InnerSourcePatterns/pulls)
 * [[InnerSource Patterns Webinar: Solving InnerSource Problems by Leveraging the Community]] - 2017-03-16
 
 ### Surveys
