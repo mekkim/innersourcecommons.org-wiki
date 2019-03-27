@@ -9,6 +9,6 @@
   1. Do you have your [TCs](SoYouWantToBeATC)? 
   1. Have they done code reviews?
   1. Is your [Contrib.md](CreatingAContribMd) ready?
-  1. Have you read [me] (innersourcecommons.org/wiki/Is-your-team-ready-for-InnerSource?) ?
+  1. Have you read [me](Is-your-team-ready-for-InnerSource?) ?
 1. How familiar are you with the codebase?
 1. Communication skills?
