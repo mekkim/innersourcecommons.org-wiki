@@ -1,6 +1,6 @@
 # DEPRECATED
 This pattern has been moved to  
-https://github.com/paypal/InnerSourcePatterns/pull/61
+https://github.com/InnerSourceCommons/InnerSourcePatterns/pull/61
 
 ## Title
 * junkyard styled inner sourcing
