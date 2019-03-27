@@ -1,6 +1,6 @@
 # DEPRECATED
 This pattern has been moved for discussion to  
-https://github.com/paypal/InnerSourcePatterns/pull/46
+https://github.com/InnerSourceCommons/InnerSourcePatterns/pull/46
 
 
 ## Title
