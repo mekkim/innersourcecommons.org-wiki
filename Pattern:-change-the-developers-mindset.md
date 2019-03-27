@@ -1,4 +1,4 @@
-[This pattern has been moved for discussion at https://github.com/paypal/InnerSourcePatterns/issues/39]
+[This pattern has been moved for discussion at https://github.com/InnerSourceCommons/InnerSourcePatterns/issues/39]
 
 ## Change the developers mindset
 
