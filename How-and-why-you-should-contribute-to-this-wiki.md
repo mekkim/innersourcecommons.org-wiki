@@ -1,6 +1,9 @@
 ## How to contribute to this wiki
 Contributing to the wiki is easy; all it takes is a Github account. See [this article](https://help.github.com/articles/about-github-wikis/) for specific help about editing a Github wiki.
 
+## Creating a merge request
+This wiki has been integrated with a repository to enable the ability to do merge requests. Please go ahead, [fork it and send a pull request](https://github.com/InnerSourceCommons/innersourcecommons.org-wiki)
+
 ## Why you should contribute to this wiki
 The InnerSource Commons is structured as an open source project; but it is not directly an open source software project. Instead, it is using the open source method to produce useful documentation that will help InnerSource Commons members succeed implementing inner sourcing (the application of open source methods on internal software development within a company/organization/corporation).
 
