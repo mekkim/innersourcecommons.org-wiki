@@ -31,7 +31,7 @@
     * Agile to fail fast at first? Or a small project? 
     * Take at least a quarter or half a year to see
     * Or address levels of InnerSource 
-    * See Doc [Is Your Team Ready for InnerSource](Is your team ready for InnerSource)
+    * See Doc [Is Your Team Ready for InnerSource](https://github.com/InnerSourceCommons/innersourcecommons.org/wiki/Is-your-team-ready-for-InnerSource)
   * Do you have a way to aggregate your documentation?
     * Ways to capture Mentoring Conversations
   * How to do intrinsic and extrinsic rewards for people and teams?
